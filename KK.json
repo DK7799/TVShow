@@ -4,7 +4,7 @@
   "itemid":"央视频道",
   "name":"CCTV-1综合HD",
   "urllist":
-  "http://ott.js.chinamobile.com/PLTV/88888888/224/3221227400/index.m3u8#http://39.135.32.28:6610/000000001000/1000000001000018602/index.m3u8?i=&IASO#http://202.120.58.89/hls/cctv1hd.m3u8#http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8"
+  "http://ott.js.chinamobile.com/PLTV/88888888/224/3221227400/index.m3u8#http://39.135.32.28:6610/000000001000/1000000001000018602/index.m3u8?i=&IASO#http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225530/index.m3u8#http://202.120.58.89/hls/cctv1hd.m3u8#http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8"
   },
   {
   "num":"002",
@@ -25,7 +25,7 @@
   "itemid":"央视频道",
   "name":"CCTV-4中文国际HD",
   "urllist":
-  "http://ott.js.chinamobile.com/PLTV/88888888/224/3221227489/index.m3u8#http://112.50.243.7/PLTV/88888888/224/3221226511/index.m3u8"
+  "http://ott.js.chinamobile.com/PLTV/88888888/224/3221227489/index.m3u8#http://112.50.243.7/PLTV/88888888/224/3221226511/index.m3u8#http://223.110.242.130:6610/gitv/live1/G_CCTV-4-HQ/1.m3u8#http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221227378/index.m3u8#http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221227378/index.m3u8"
   },
   {
   "num":"005",
@@ -46,21 +46,21 @@
   "itemid":"央视频道",
   "name":"CCTV-6电影HD",
   "urllist":
-  "http://ott.js.chinamobile.com/PLTV/88888888/224/3221227430/index.m3u8#http://39.135.32.28:6610/000000001000/1000000001000016466/index.m3u8?i=&IASO#http://202.120.58.89/hls/cctv6hd.m3u8#http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8"
+  "http://ott.js.chinamobile.com/PLTV/88888888/224/3221227430/index.m3u8#http://39.135.32.28:6610/000000001000/1000000001000016466/index.m3u8?i=&IASO#http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227209/index.m3u8#http://202.120.58.89/hls/cctv6hd.m3u8#http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8"
   },
   {
   "num":"008",
   "itemid":"央视频道",
   "name":"CCTV-7军事农业HD",
   "urllist":
-  "http://ott.js.chinamobile.com/PLTV/88888888/224/3221227392/index.m3u8#http://39.135.32.28:6610/000000001000/1000000001000017218/index.m3u8?i=&IASO"
+  "http://ott.js.chinamobile.com/PLTV/88888888/224/3221227392/index.m3u8#http://39.135.32.28:6610/000000001000/1000000001000017218/index.m3u8?i=&IASO#http://117.156.28.119/270000001111/1110000056/index.m3u8"
   },
   {
   "num":"009",
   "itemid":"央视频道",
   "name":"CCTV-8电视剧HD",
   "urllist":
-  "http://ott.js.chinamobile.com/PLTV/88888888/224/3221227433/index.m3u8#http://39.135.32.28:6610/000000001000/1000000001000031433/index.m3u8?i=&IASO#http://202.120.58.89/hls/cctv8hd.m3u8#http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8"
+  "http://ott.js.chinamobile.com/PLTV/88888888/224/3221227433/index.m3u8#http://39.135.32.28:6610/000000001000/1000000001000031433/index.m3u8?i=&IASO#http://202.120.58.89/hls/cctv8hd.m3u8#http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227418/index.m3u8#http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8"
   },
   {
   "num":"010",
@@ -375,7 +375,7 @@
   "itemid":"重庆频道",
   "name":"重庆新闻",
   "urllist":
-  "http://onsitecdn.cbgcloud.com/spjdmy/r8exa7.m3u8"
+  "http://219.153.252.50/PLTV/88888888/224/3221225531/chunklist.m3u8#http://onsitecdn.cbgcloud.com/spjdmy/r8exa7.m3u8"
   },
   {
   "num":"202",
@@ -431,7 +431,7 @@
   "itemid":"重庆频道",
   "name":"重庆移动",
   "urllist":
-  "http://qxlmlive.cbg.cn:1935/app_2/ls_57.stream/chunklist.m3u8"
+  "http://219.153.252.50/PLTV/88888888/224/3221225628/chunklist.m3u8#http://qxlmlive.cbg.cn:1935/app_2/ls_57.stream/chunklist.m3u8"
   },
   {
   "num":"210",
@@ -459,7 +459,7 @@
   "itemid":"港澳台海外频道",
   "name":"HBO",
   "urllist":
-  "http://60.248.127.231:8012/0.ts#http://218.202.220.2:5000/nn_live.ts?id=HBO#http://113.170.235.134:88/udp/232.84.2.138:10648"
+  "http://218.202.220.2:5000/nn_live.ts?id=HBO#http://113.170.235.134:88/udp/232.84.2.138:10648#http://60.248.127.231:8012/0.ts"
   },
   {
   "num":"302",
@@ -487,7 +487,7 @@
   "itemid":"港澳台海外频道",
   "name":"国家地理",
   "urllist":
-  "http://t104-156bd5.boxtv.win/live/kwzq1rse/nvhgfr5c/index.m3u8"
+  "http://t104-156bd5.boxtv.win/live/kwzq1rse/nvhgfr5c/index.m3u8#rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo"
   },
   {
   "num":"306",
