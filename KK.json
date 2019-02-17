@@ -4,21 +4,21 @@
   "itemid":"央视频道",
   "name":"CCTV-1综合HD",
   "urllist":
-  "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000311/index.m3u8#http://183.207.248.71:80/cntv/live1/cctv-1/cctv-1#http://223.110.242.130:6610/gitv/live1/G_CCTV-1-CQ/1.m3u8#http://202.120.58.89/hls/cctv1hd.m3u8#http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8"
+  "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000311/index.m3u8#http://125.210.158.10:8060/live/CCTV1HD_H265.m3u8#http://183.207.248.71:80/cntv/live1/cctv-1/cctv-1#http://223.110.242.130:6610/gitv/live1/G_CCTV-1-CQ/1.m3u8#http://202.120.58.89/hls/cctv1hd.m3u8#http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8"
   },
   {
   "num":"002",
   "itemid":"央视频道",
   "name":"CCTV-2财经HD",
   "urllist":
-  "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000317/index.m3u8#http://183.207.248.71:80/cntv/live1/cctv-2/cctv-2#http://112.50.243.10/PLTV/88888888/224/3221225800/1.m3u8"
+  "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000317/index.m3u8#http://125.210.158.10:8060/live/CCTV2HD_H265.m3u8#http://183.207.248.71:80/cntv/live1/cctv-2/cctv-2#http://112.50.243.10/PLTV/88888888/224/3221225800/1.m3u8"
   },
   {
   "num":"003",
   "itemid":"央视频道",
   "name":"CCTV-3综艺HD",
   "urllist":
-  "http://223.110.242.130:6610/gitv/live1/G_CCTV-3-CQ/1.m3u8#http://183.207.248.71:80/cntv/live1/cctv-3/cctv-3#http://202.120.58.89/hls/cctv3hd.m3u8#http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8"
+  "http://223.110.242.130:6610/gitv/live1/G_CCTV-3-CQ/1.m3u8#http://125.210.158.10:8060/live/CCTV3HD_H265.m3u8#http://183.207.248.71:80/cntv/live1/cctv-3/cctv-3#http://202.120.58.89/hls/cctv3hd.m3u8#http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8"
   },
   {
   "num":"004",
@@ -39,28 +39,28 @@
   "itemid":"央视频道",
   "name":"CCTV-5体育HD",
   "urllist":
-  "http://223.110.242.130:6610/gitv/live1/G_CCTV-5-CQ/1.m3u8#http://223.110.242.130:6610/cntv/live1/HD-2500k-1080P-cctv5/HD-2500k-1080P-cctv5#http://183.207.248.71:80/cntv/live1/CCTV-5/cctv-5#http://223.110.245.136/PLTV/3/224/3221227166/index.m3u8#http://ivi.bupt.edu.cn/hls/cctv5hd.m3u8"
+  "http://223.110.242.130:6610/gitv/live1/G_CCTV-5-CQ/1.m3u8#http://125.210.158.10:8060/live/CCTV5HD_H265.m3u8#http://223.110.242.130:6610/cntv/live1/HD-2500k-1080P-cctv5/HD-2500k-1080P-cctv5#http://183.207.248.71:80/cntv/live1/CCTV-5/cctv-5#http://223.110.245.136/PLTV/3/224/3221227166/index.m3u8#http://ivi.bupt.edu.cn/hls/cctv5hd.m3u8"
   },
   {
   "num":"007",
   "itemid":"央视频道",
   "name":"CCTV-6电影HD",
   "urllist":
-  "http://223.110.242.130:6610/gitv/live1/G_CCTV-6-CQ/1.m3u8#http://183.207.248.71:80/cntv/live1/CCTV-6/cctv-6#http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227209/index.m3u8#http://202.120.58.89/hls/cctv6hd.m3u8#http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8"
+  "http://223.110.242.130:6610/gitv/live1/G_CCTV-6-CQ/1.m3u8#http://125.210.158.10:8060/live/CCTV6HD_H265.m3u8#http://183.207.248.71:80/cntv/live1/CCTV-6/cctv-6#http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227209/index.m3u8#http://202.120.58.89/hls/cctv6hd.m3u8#http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8"
   },
   {
   "num":"008",
   "itemid":"央视频道",
   "name":"CCTV-7军事农业HD",
   "urllist":
-  "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000318/index.m3u8#http://223.110.242.130:6610/gitv/live1/G_CCTV-7-HQ/1.m3u8#http://183.207.248.71:80/cntv/live1/CCTV-7/cctv-7#http://117.156.28.119/270000001111/1110000056/index.m3u8"
+  "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000318/index.m3u8#http://125.210.158.10:8060/live/CCTV7HD_H265.m3u8#http://223.110.242.130:6610/gitv/live1/G_CCTV-7-HQ/1.m3u8#http://183.207.248.71:80/cntv/live1/CCTV-7/cctv-7#http://117.156.28.119/270000001111/1110000056/index.m3u8"
   },
   {
   "num":"009",
   "itemid":"央视频道",
   "name":"CCTV-8电视剧HD",
   "urllist":
-  "http://223.110.242.130:6610/gitv/live1/G_CCTV-8-CQ/1.m3u8#http://183.207.248.71:80/cntv/live1/CCTV-8/cctv-8#http://202.120.58.89/hls/cctv8hd.m3u8#http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227418/index.m3u8#http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8"
+  "http://223.110.242.130:6610/gitv/live1/G_CCTV-8-CQ/1.m3u8#http://125.210.158.10:8060/live/CCTV8HD_H265.m3u8#http://183.207.248.71:80/cntv/live1/CCTV-8/cctv-8#http://202.120.58.89/hls/cctv8hd.m3u8#http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227418/index.m3u8#http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8"
   },
   {
   "num":"010",
@@ -74,7 +74,7 @@
   "itemid":"央视频道",
   "name":"CCTV-10科教HD",
   "urllist":
-  "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000321/index.m3u8#http://223.110.242.130:6610/gitv/live1/G_CCTV-10-HQ/1.m3u8#http://183.207.248.71:80/cntv/live1/CCTV-10/cctv-10#http://223.110.243.155/PLTV/3/224/3221225550/index.m3u8"
+  "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000321/index.m3u8#http://125.210.158.10:8060/live/CCTV10HD_H265.m3u8#http://223.110.242.130:6610/gitv/live1/G_CCTV-10-HQ/1.m3u8#http://183.207.248.71:80/cntv/live1/CCTV-10/cctv-10#http://223.110.243.155/PLTV/3/224/3221225550/index.m3u8"
   },
   {
   "num":"012",
@@ -88,7 +88,7 @@
   "itemid":"央视频道",
   "name":"CCTV-12社会与法HD",
   "urllist":
-  "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000322/index.m3u8#http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221225556/index.m3u8#http://39.135.32.28:6610/000000001000/1000000001000032494/index.m3u8?i=&IASO"
+  "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000322/index.m3u8#http://125.210.158.10:8060/live/CCTV12HD_H265.m3u8#http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221225556/index.m3u8#http://39.135.32.28:6610/000000001000/1000000001000032494/index.m3u8?i=&IASO"
   },
   {
   "num":"014",
@@ -102,7 +102,7 @@
   "itemid":"央视频道",
   "name":"CCTV-14少儿HD",
   "urllist":
-  "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000323/index.m3u8#http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227201/index.m3u8#http://39.135.32.28:6610/000000001000/1000000001000008170/index.m3u8?i=&IASO"
+  "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000323/index.m3u8#http://125.210.158.10:8060/live/CCTV14HD_H265.m3u8#http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227201/index.m3u8#http://39.135.32.28:6610/000000001000/1000000001000008170/index.m3u8?i=&IASO"
   },
   {
   "num":"016",
@@ -165,21 +165,21 @@
   "itemid":"地方卫视",
   "name":"凤凰香港HD",
   "urllist":
-  "http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8#http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221226975/index.m3u8"
+  "http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8#http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221226975/index.m3u8#http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8"
   },
   {
   "num":"102",
   "itemid":"地方卫视",
   "name":"凤凰中文HD",
   "urllist":
-  "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8#http://111.40.205.87/PLTV/88888888/224/3221225684/index.m3u8#http://111.13.42.13/PLTV/88888888/224/3221225942/1.m3u8"
+  "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8#http://111.40.205.87/PLTV/88888888/224/3221225684/index.m3u8#http://111.13.42.13/PLTV/88888888/224/3221225942/1.m3u8#http://183.207.249.35/PLTV/3/224/3221226922/index.m3u8"
   },
   {
   "num":"103",
   "itemid":"地方卫视",
   "name":"凤凰资讯HD",
   "urllist":
-  "http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8#http://111.40.205.87/PLTV/88888888/224/3221225686/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225686/index.m3u8"
+  "http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8#http://111.40.205.87/PLTV/88888888/224/3221225686/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225686/index.m3u8#http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8"
   },
   {
   "num":"104",
@@ -193,56 +193,56 @@
   "itemid":"地方卫视",
   "name":"湖南卫视HD",
   "urllist":
-  "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000324/index.m3u8#http://223.110.242.130:6610/gitv/live1/G_HUNAN-CQ/G_HUNAN-CQ/#http://202.120.58.89/hls/hunanhd.m3u8#http://ivi.bupt.edu.cn/hls/hunanhd.m3u8"
+  "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000324/index.m3u8#http://125.210.152.20:9090/live/HNWSHD_H265.m3u8#http://223.110.242.130:6610/gitv/live1/G_HUNAN-CQ/G_HUNAN-CQ/#http://202.120.58.89/hls/hunanhd.m3u8#http://ivi.bupt.edu.cn/hls/hunanhd.m3u8"
   },
   {
   "num":"106",
   "itemid":"地方卫视",
   "name":"江苏卫视HD",
   "urllist":
-  "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000304/index.m3u8#http://223.110.242.130:6610/gitv/live1/G_JIANGSU-CQ/G_JIANGSU-CQ/#http://202.120.58.89/hls/jshd.m3u8#http://ivi.bupt.edu.cn/hls/jshd.m3u8"
+  "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000304/index.m3u8#http://125.210.152.20:9090/live/JSWSHD_H265.m3u8#http://223.110.242.130:6610/gitv/live1/G_JIANGSU-CQ/G_JIANGSU-CQ/#http://202.120.58.89/hls/jshd.m3u8#http://ivi.bupt.edu.cn/hls/jshd.m3u8"
   },
   {
   "num":"107",
   "itemid":"地方卫视",
   "name":"浙江卫视HD",
   "urllist":
-  "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000305/index.m3u8#http://223.110.242.130:6610/gitv/live1/G_ZHEJIANG-CQ/G_ZHEJIANG-CQ/#http://202.120.58.89/hls/zjhd.m3u8#http://ivi.bupt.edu.cn/hls/zjhd.m3u8"
+  "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000305/index.m3u8#http://125.210.152.20:9090/live/ZJWSHD_H265.m3u8#http://223.110.242.130:6610/gitv/live1/G_ZHEJIANG-CQ/G_ZHEJIANG-CQ/#http://202.120.58.89/hls/zjhd.m3u8#http://ivi.bupt.edu.cn/hls/zjhd.m3u8"
   },
   {
   "num":"108",
   "itemid":"地方卫视",
   "name":"安徽卫视HD",
   "urllist":
-  "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000328/index.m3u8#http://202.120.58.89/hls/ahhd.m3u8#http://ivi.bupt.edu.cn/hls/ahhd.m3u8"
+  "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000328/index.m3u8#http://125.210.152.20:9090/live/AHWSHD_H265.m3u8#http://202.120.58.89/hls/ahhd.m3u8#http://ivi.bupt.edu.cn/hls/ahhd.m3u8"
   },
   {
   "num":"109",
   "itemid":"地方卫视",
   "name":"北京卫视HD",
   "urllist":
-  "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000302/index.m3u8#http://223.110.242.130:6610/gitv/live1/G_BEIJING-CQ/G_BEIJING-CQ/#http://202.120.58.89/hls/btv1hd.m3u8#http://ivi.bupt.edu.cn/hls/btv1hd.m3u8"
+  "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000302/index.m3u8#http://125.210.152.20:9090/live/BJWSHD_H265.m3u8#http://223.110.242.130:6610/gitv/live1/G_BEIJING-CQ/G_BEIJING-CQ/#http://202.120.58.89/hls/btv1hd.m3u8#http://ivi.bupt.edu.cn/hls/btv1hd.m3u8"
   },
   {
   "num":"110",
   "itemid":"地方卫视",
   "name":"东方卫视HD",
   "urllist":
-  "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000309/index.m3u8#http://223.110.242.130:6610/gitv/live1/G_DONGFANG-CQ/G_DONGFANG-CQ/#http://202.120.58.89/hls/dfhd.m3u8#http://ivi.bupt.edu.cn/hls/dfhd.m3u8"
+  "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000309/index.m3u8#http://125.210.152.20:9090/live/DFWSHD_H265.m3u8#http://223.110.242.130:6610/gitv/live1/G_DONGFANG-CQ/G_DONGFANG-CQ/#http://202.120.58.89/hls/dfhd.m3u8#http://ivi.bupt.edu.cn/hls/dfhd.m3u8"
   },
   {
   "num":"111",
   "itemid":"地方卫视",
   "name":"广东卫视HD",
   "urllist":
-  "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000307/index.m3u8#http://202.120.58.89/hls/gdhd.m3u8#http://ivi.bupt.edu.cn/hls/gdhd.m3u8"
+  "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000307/index.m3u8#http://125.210.152.20:9090/live/GDWSHD_H265.m3u8#http://202.120.58.89/hls/gdhd.m3u8#http://ivi.bupt.edu.cn/hls/gdhd.m3u8"
   },
   {
   "num":"112",
   "itemid":"地方卫视",
   "name":"黑龙江卫视HD",
   "urllist":
-  "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000306/index.m3u8#http://202.120.58.89/hls/hljhd.m3u8#http://ivi.bupt.edu.cn/hls/hljhd.m3u8"
+  "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000306/index.m3u8#http://125.210.152.20:9090/live/HLJWSHD_H265.m3u8#http://202.120.58.89/hls/hljhd.m3u8#http://ivi.bupt.edu.cn/hls/hljhd.m3u8"
   },
   {
   "num":"113",
@@ -256,28 +256,28 @@
   "itemid":"地方卫视",
   "name":"辽宁卫视HD",
   "urllist":
-  "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000326/index.m3u8#http://202.120.58.89/hls/lnhd.m3u8#http://ivi.bupt.edu.cn/hls/lnhd.m3u8"
+  "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000326/index.m3u8#http://125.210.152.20:9090/live/LNWSHD_H265.m3u8#http://202.120.58.89/hls/lnhd.m3u8#http://ivi.bupt.edu.cn/hls/lnhd.m3u8"
   },
   {
   "num":"115",
   "itemid":"地方卫视",
   "name":"山东卫视HD",
   "urllist":
-  "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000301/index.m3u8#http://223.110.242.130:6610/gitv/live1/G_SHANDONG-HQ/G_SHANDONG-HQ/#http://202.120.58.89/hls/sdhd.m3u8#http://ivi.bupt.edu.cn/hls/sdhd.m3u8"
+  "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000301/index.m3u8#http://125.210.152.20:9090/live/SDWSHD_H265.m3u8#http://223.110.242.130:6610/gitv/live1/G_SHANDONG-HQ/G_SHANDONG-HQ/#http://202.120.58.89/hls/sdhd.m3u8#http://ivi.bupt.edu.cn/hls/sdhd.m3u8"
   },
   {
   "num":"116",
   "itemid":"地方卫视",
   "name":"深圳卫视HD",
   "urllist":
-  "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000308/index.m3u8#http://202.120.58.89/hls/szhd.m3u8#http://ivi.bupt.edu.cn/hls/szhd.m3u8"
+  "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000308/index.m3u8#http://125.210.152.20:9090/live/SZWSHD_H265.m3u8#http://202.120.58.89/hls/szhd.m3u8#http://ivi.bupt.edu.cn/hls/szhd.m3u8"
   },
   {
   "num":"117",
   "itemid":"地方卫视",
   "name":"天津卫视HD",
   "urllist":
-  "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000327/index.m3u8#http://202.120.58.89/hls/tjhd.m3u8#http://ivi.bupt.edu.cn/hls/tjhd.m3u8"
+  "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000327/index.m3u8#http://125.210.152.20:9090/live/TJWSHD_H265.m3u8#http://202.120.58.89/hls/tjhd.m3u8#http://ivi.bupt.edu.cn/hls/tjhd.m3u8"
   },
   {
   "num":"118",
@@ -305,7 +305,7 @@
   "itemid":"地方卫视",
   "name":"河北卫视HD",
   "urllist":
-  "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000330/index.m3u8#http://weblive.hebtv.com/live/hbws_bq/index.m3u8#http://ivi.bupt.edu.cn/hls/hebtv.m3u8"
+  "http://live01.hebtv.com/channels/hebtv/video_channel_04/flv:800k/live?1234567890#http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000330/index.m3u8#http://weblive.hebtv.com/live/hbws_bq/index.m3u8#http://ivi.bupt.edu.cn/hls/hebtv.m3u8#http://125.210.152.20:9090/live/HBWSHD_H265.m3u8"
   },
   {
   "num":"122",
@@ -319,14 +319,14 @@
   "itemid":"地方卫视",
   "name":"四川卫视HD",
   "urllist":
-  "http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221225814/index.m3u8#http://ivi.bupt.edu.cn/hls/sctv.m3u8"
+  "http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221225814/index.m3u8#http://125.210.152.20:9090/live/SCWSHD_H265.m3u8#http://ivi.bupt.edu.cn/hls/sctv.m3u8"
   },
   {
   "num":"124",
   "itemid":"地方卫视",
   "name":"贵州卫视HD",
   "urllist":
-  "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000041/index.m3u8#http://ivi.bupt.edu.cn/hls/gztv.m3u8"
+  "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000041/index.m3u8#http://125.210.152.20:9090/live/GZWSHD_H265.m3u8#http://ivi.bupt.edu.cn/hls/gztv.m3u8"
   },
   {
   "num":"125",
@@ -340,7 +340,7 @@
   "itemid":"地方卫视",
   "name":"东南卫视HD",
   "urllist":
-  "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000310/index.m3u8#http://ivi.bupt.edu.cn/hls/dntv.m3u8"
+  "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000310/index.m3u8#http://125.210.152.20:9090/live/DNWSHD_H265.m3u8#http://ivi.bupt.edu.cn/hls/dntv.m3u8"
   },
   {
   "num":"127",
@@ -354,7 +354,7 @@
   "itemid":"地方卫视",
   "name":"江西卫视HD",
   "urllist":
-  "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225536/index.m3u8#http://ivi.bupt.edu.cn/hls/jxtv.m3u8"
+  "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225536/index.m3u8#http://125.210.152.20:9090/live/JXWSHD_H265.m3u8#http://ivi.bupt.edu.cn/hls/jxtv.m3u8"
   },
   {
   "num":"129",
@@ -431,7 +431,7 @@
   "itemid":"重庆频道",
   "name":"重庆移动",
   "urllist":
-  "http://219.153.252.50/PLTV/88888888/224/3221225628/chunklist.m3u8#http://qxlmlive.cbg.cn:1935/app_2/ls_57.stream/chunklist.m3u8"
+  "http://219.153.252.50/PLTV/88888888/224/3221225628/chunklist.m3u8"
   },
   {
   "num":"210",
