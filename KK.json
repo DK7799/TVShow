@@ -305,7 +305,7 @@
   "itemid":"地方卫视",
   "name":"河北卫视HD",
   "urllist":
-  "http://live01.hebtv.com/channels/hebtv/video_channel_04/flv:800k/live?1234567890#http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000330/index.m3u8#http://weblive.hebtv.com/live/hbws_bq/index.m3u8#http://ivi.bupt.edu.cn/hls/hebtv.m3u8#http://125.210.152.20:9090/live/HBWSHD_H265.m3u8"
+  "http://live01.hebtv.com/channels/hebtv/video_channel_04/flv:2000k/live#http://live01.hebtv.com/channels/hebtv/video_channel_04/flv:800k/live?1234567890#http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000330/index.m3u8#http://weblive.hebtv.com/live/hbws_bq/index.m3u8#http://ivi.bupt.edu.cn/hls/hebtv.m3u8"
   },
   {
   "num":"122",
@@ -578,7 +578,7 @@
   "itemid":"影视娱乐",
   "name":"CHC高清",
   "urllist":
-  "http://tv6.ime.moe/hls/chchd.m3u8#http://202.120.58.89/hls/chchd.m3u8#http://ivi.bupt.edu.cn/hls/chchd.m3u8"
+  "http://tv6.ime.moe/hls/chchd.m3u8#http://202.120.58.89/hls/chchd.m3u8#http://ivi.bupt.edu.cn/hls/chchd.m3u8#http://218.94.137.117/hls/chchd.m3u8"
   },
   {
   "num":"403",
