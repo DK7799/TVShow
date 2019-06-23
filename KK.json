@@ -4,7 +4,7 @@
   "itemid":"央视频道",
   "name":"CCTV-1综合HD",
   "urllist":
-  "http://112.50.243.8/PLTV/88888888/224/3221225829/1.m3u8#http://223.110.242.130:6610/gitv/live1/G_CCTV-1-CQ/1.m3u8#http://223.110.241.204:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/#http://183.215.116.134:6610/180000001001/00000000000000020000000000182562/main.m3u8?IAS=&IASHttpSessionId=OTT2192520181113035032003115#http://183.207.248.71:80/cntv/live1/cctv-1/cctv-1#http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8#http://39.134.13.35:6610/180000001001/00000001000000000007000000001243/index.m3u8?"
+  "http://112.50.243.8/PLTV/88888888/224/3221225829/1.m3u8#http://223.110.242.130:6610/gitv/live1/G_CCTV-1-CQ/1.m3u8#http://223.110.241.204:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/#http://183.215.116.134:6610/180000001001/00000000000000020000000000182562/main.m3u8?IAS=&IASHttpSessionId=OTT2192520181113035032003115#http://183.207.248.71:80/cntv/live1/cctv-1/cctv-1#http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8#http://39.134.13.35:6610/180000001001/00000001000000000007000000001243/index.m3u8?#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221228702/index.m3u8"
   },
   {
   "num":"002",
@@ -32,49 +32,49 @@
   "itemid":"央视频道",
   "name":"CCTV-5+体育赛事HD",
   "urllist":
-  "http://112.50.243.8/PLTV/88888888/224/3221225821/1.m3u8#http://223.110.242.130:6610/gitv/live1/G_CCTV-5PLUS-CQ/1.m3u8#http://223.110.241.204:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ/#http://183.207.248.71:80/cntv/live1/CCTV5+/hdcctv05plus#http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8"
+  "http://112.50.243.8/PLTV/88888888/224/3221225821/1.m3u8#http://223.110.242.130:6610/gitv/live1/G_CCTV-5PLUS-CQ/1.m3u8#http://223.110.241.204:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ/#http://183.207.248.71:80/cntv/live1/CCTV5+/hdcctv05plus#http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221228810/index.m3u8"
   },
   {
   "num":"006",
   "itemid":"央视频道",
   "name":"CCTV-5体育HD",
   "urllist":
-  "http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229106/index.m3u8#http://223.110.242.130:6610/gitv/live1/G_CCTV-5-CQ/1.m3u8#http://223.110.241.204:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ/#http://223.110.242.130:6610/cntv/live1/HD-2500k-1080P-cctv5/HD-2500k-1080P-cctv5#http://183.207.248.71:80/cntv/live1/CCTV-5/cctv-5#http://223.110.245.136/PLTV/3/224/3221227166/index.m3u8#http://ivi.bupt.edu.cn/hls/cctv5hd.m3u8"
+  "http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229106/index.m3u8#http://223.110.242.130:6610/gitv/live1/G_CCTV-5-CQ/1.m3u8#http://223.110.241.204:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ/#http://223.110.242.130:6610/cntv/live1/HD-2500k-1080P-cctv5/HD-2500k-1080P-cctv5#http://183.207.248.71:80/cntv/live1/CCTV-5/cctv-5#http://223.110.245.136/PLTV/3/224/3221227166/index.m3u8#http://ivi.bupt.edu.cn/hls/cctv5hd.m3u8#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221228819/index.m3u8"
   },
   {
   "num":"007",
   "itemid":"央视频道",
   "name":"CCTV-6电影HD",
   "urllist":
-  "http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229091/index.m3u8#http://223.110.242.130:6610/gitv/live1/G_CCTV-6-CQ/1.m3u8#http://223.110.241.204:6610/gitv/live1/G_CCTV-6-CQ/G_CCTV-6-CQ/#http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8#http://183.207.248.71:80/cntv/live1/CCTV-6/cctv-6#http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227209/index.m3u8#http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8#http://111.40.205.87/PLTV/88888888/224/3221225607/index.m3u8"
+  "http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229091/index.m3u8#http://223.110.242.130:6610/gitv/live1/G_CCTV-6-CQ/1.m3u8#http://223.110.241.204:6610/gitv/live1/G_CCTV-6-CQ/G_CCTV-6-CQ/#http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8#http://183.207.248.71:80/cntv/live1/CCTV-6/cctv-6#http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227209/index.m3u8#http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8#http://111.40.205.87/PLTV/88888888/224/3221225607/index.m3u8#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229091/index.m3u8"
   },
   {
   "num":"008",
   "itemid":"央视频道",
   "name":"CCTV-7军事农业HD",
   "urllist":
-  "http://112.50.243.8/PLTV/88888888/224/3221225805/1.m3u8#http://223.110.242.130:6610/gitv/live1/G_CCTV-7-HQ/1.m3u8#http://223.110.241.204:6610/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ/#http://112.50.243.8/PLTV/88888888/224/3221225805/1.m3u8#http://183.207.248.71:80/cntv/live1/CCTV-7/cctv-7#http://39.134.13.35:6610/180000001001/00000001000000000008000000047436/index.m3u8?"
+  "http://112.50.243.8/PLTV/88888888/224/3221225805/1.m3u8#http://223.110.242.130:6610/gitv/live1/G_CCTV-7-HQ/1.m3u8#http://223.110.241.204:6610/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ/#http://112.50.243.8/PLTV/88888888/224/3221225805/1.m3u8#http://183.207.248.71:80/cntv/live1/CCTV-7/cctv-7#http://39.134.13.35:6610/180000001001/00000001000000000008000000047436/index.m3u8?#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229076/index.m3u8"
   },
   {
   "num":"009",
   "itemid":"央视频道",
   "name":"CCTV-8电视剧HD",
   "urllist":
-  "http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229083/index.m3u8#http://223.110.242.130:6610/gitv/live1/G_CCTV-8-CQ/1.m3u8#http://223.110.241.204:6610/gitv/live1/G_CCTV-8-CQ/G_CCTV-8-CQ/#http://223.110.243.171/PLTV/3/224/3221227204/index.m3u8#http://183.207.248.71:80/cntv/live1/CCTV-8/cctv-8#http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227418/index.m3u8#http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8#http://111.40.205.87/PLTV/88888888/224/3221225608/index.m3u8"
+  "http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229083/index.m3u8#http://223.110.242.130:6610/gitv/live1/G_CCTV-8-CQ/1.m3u8#http://223.110.241.204:6610/gitv/live1/G_CCTV-8-CQ/G_CCTV-8-CQ/#http://223.110.243.171/PLTV/3/224/3221227204/index.m3u8#http://183.207.248.71:80/cntv/live1/CCTV-8/cctv-8#http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227418/index.m3u8#http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8#http://111.40.205.87/PLTV/88888888/224/3221225608/index.m3u8#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229083/index.m3u8"
   },
   {
   "num":"010",
   "itemid":"央视频道",
   "name":"CCTV-9记录HD",
   "urllist":
-  "http://112.50.243.8/PLTV/88888888/224/3221225820/1.m3u8#http://223.110.241.204:6610/gitv/live1/G_CCTV-9/G_CCTV-9/#http://223.110.245.135/PLTV/3/224/3221225532/index.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225820/1.m3u8#http://223.110.241.203:6610/gitv/live1/G_CCTV-9/G_CCTV-9/#http://39.134.13.35:6610/180000001001/00000001000000000008000000047438/index.m3u8?"
+  "http://112.50.243.8/PLTV/88888888/224/3221225820/1.m3u8#http://223.110.241.204:6610/gitv/live1/G_CCTV-9/G_CCTV-9/#http://223.110.245.135/PLTV/3/224/3221225532/index.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225820/1.m3u8#http://223.110.241.203:6610/gitv/live1/G_CCTV-9/G_CCTV-9/#http://39.134.13.35:6610/180000001001/00000001000000000008000000047438/index.m3u8?#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229079/index.m3u8"
   },
   {
   "num":"011",
   "itemid":"央视频道",
   "name":"CCTV-10科教HD",
   "urllist":
-  "http://112.50.243.8/PLTV/88888888/224/3221225814/1.m3u8#http://223.110.242.130:6610/gitv/live1/G_CCTV-10-HQ/1.m3u8#http://223.110.241.204:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/#http://183.207.248.71:80/cntv/live1/CCTV-10/cctv-10#http://223.110.241.203:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/#http://39.134.13.35:6610/180000001001/00000001000000000008000000047439/index.m3u8?"
+  "http://112.50.243.8/PLTV/88888888/224/3221225814/1.m3u8#http://223.110.242.130:6610/gitv/live1/G_CCTV-10-HQ/1.m3u8#http://223.110.241.204:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/#http://183.207.248.71:80/cntv/live1/CCTV-10/cctv-10#http://223.110.241.203:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/#http://39.134.13.35:6610/180000001001/00000001000000000008000000047439/index.m3u8?#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229082/index.m3u8"
   },
   {
   "num":"012",
@@ -123,42 +123,42 @@
   "itemid":"央视频道",
   "name":"CCTV-第一剧场",
   "urllist":
-  "rtmp://58.200.131.2:1935/livetv/dyjctv"
+  "http://39.135.16.142:6060/PLTV/88888888/224/3221225702/1/index.m3u8?fmt=ts2hls"
   },
   {
   "num":"019",
   "itemid":"央视频道",
   "name":"CCTV-怀旧剧场",
   "urllist":
-  "rtmp://58.200.131.2:1935/livetv/hjjctv"
+  "http://39.135.16.142:6060/PLTV/88888888/224/3221225765/1/index.m3u8?fmt=ts2hls"
   },
   {
   "num":"020",
   "itemid":"央视频道",
   "name":"CCTV-风云剧场",
   "urllist":
-  "rtmp://58.200.131.2:1935/livetv/fyjctv"
+  "http://39.135.16.142:6060/PLTV/88888888/224/3221225700/1/index.m3u8?fmt=ts2hls"
   },
   {
   "num":"021",
   "itemid":"央视频道",
   "name":"CCTV-风云足球",
   "urllist":
-  "rtmp://58.200.131.2:1935/livetv/fyzqtv"
+  "http://39.135.16.142:6060/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls"
   },
   {
   "num":"022",
   "itemid":"央视频道",
   "name":"CCTV-风云音乐",
   "urllist":
-  "rtmp://58.200.131.2:1935/livetv/fyyytv"
+  "http://39.135.16.142:6060/PLTV/88888888/224/3221225698/1/index.m3u8?fmt=ts2hls"
   },
   {
   "num":"023",
   "itemid":"央视频道",
   "name":"CCTV-世界地理",
   "urllist":
-  "rtmp://58.200.131.2:1935/livetv/sjdltv"
+  "http://39.135.16.142:6060/PLTV/88888888/224/3221225733/1/index.m3u8?fmt=ts2hls"
   },
   {
   "num":"101",
@@ -172,14 +172,14 @@
   "itemid":"地方卫视",
   "name":"凤凰中文HD",
   "urllist":
-  "http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8#http://183.207.249.35/PLTV/3/224/3221226922/index.m3u8#http://111.40.205.87/PLTV/88888888/224/3221225684/index.m3u8"
+  "http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8#http://183.207.249.35/PLTV/3/224/3221226922/index.m3u8#http://111.40.205.87/PLTV/88888888/224/3221225684/index.m3u8#http://39.134.65.162/PLTV/88888888/224/3221225546/index.m3u8"
   },
   {
   "num":"103",
   "itemid":"地方卫视",
   "name":"凤凰资讯HD",
   "urllist":
-  "http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8#http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8#http://111.40.205.87/PLTV/88888888/224/3221225686/index.m3u8"
+  "http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8#http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8#http://111.40.205.87/PLTV/88888888/224/3221225686/index.m3u8#http://39.134.65.162/PLTV/88888888/224/3221225549/index.m3u8"
   },
   {
   "num":"104",
@@ -207,7 +207,7 @@
   "itemid":"地方卫视",
   "name":"浙江卫视HD",
   "urllist":
-  "http://112.50.243.8/PLTV/88888888/224/3221225825/1.m3u8#http://223.110.242.130:6610/gitv/live1/G_ZHEJIANG-CQ/G_ZHEJIANG-CQ/#http://223.110.241.204:6610/gitv/live1/G_ZHEJIANG-CQ/G_ZHEJIANG-CQ/#http://ivi.bupt.edu.cn/hls/zjhd.m3u8#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229352/index.m3u8#http://39.134.13.35:6610/180000001001/00000001000000000007000000001250/index.m3u8?#http://111.40.205.87/PLTV/88888888/224/3221225612/index.m3u8"
+  "http://112.50.243.8/PLTV/88888888/224/3221225825/1.m3u8#http://223.110.242.130:6610/gitv/live1/G_ZHEJIANG-CQ/G_ZHEJIANG-CQ/#http://223.110.241.204:6610/gitv/live1/G_ZHEJIANG-CQ/G_ZHEJIANG-CQ/#http://ivi.bupt.edu.cn/hls/zjhd.m3u8#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229352/index.m3u8#http://39.134.13.35:6610/180000001001/00000001000000000007000000001250/index.m3u8?#http://111.40.205.87/PLTV/88888888/224/3221225612/index.m3u8#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229352/index.m3u8"
   },
   {
   "num":"108",
