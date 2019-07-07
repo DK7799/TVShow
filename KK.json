@@ -457,89 +457,96 @@
   {
   "num":"301",
   "itemid":"港澳台海外频道",
+  "name":"HBO",
+  "urllist":
+  "http://218.202.220.2:5000/nn_live.m3u8?id=HBO"
+  },
+  {
+  "num":"302",
+  "itemid":"港澳台海外频道",
   "name":"HBO2",
   "urllist":
   "http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8#http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8#http://161.0.157.6/PLTV/88888888/224/3221227026/01.m3u8#http://live.fzszyx.com/itv/gm/?id=QwGVVcO0JTUNLhiKJ2nUR3fdIwlp3b"
   },
   {
-  "num":"302",
+  "num":"303",
   "itemid":"港澳台海外频道",
   "name":"凤凰电影",
   "urllist":
   "http://94.191.92.145:5005/nl.ts?id=232-10-4-11"
   },
   {
-  "num":"303",
+  "num":"304",
   "itemid":"港澳台海外频道",
   "name":"星空卫视",
   "urllist":
   "rtmp://58.200.131.2:1935/livetv/startv"
   },
   {
-  "num":"304",
+  "num":"305",
   "itemid":"港澳台海外频道",
   "name":"星卫电影",
   "urllist":
-  "http://59.120.242.104:9000/live/live10.m3u8"
+  "http://59.120.242.104:9000/live/live10.m3u8#http://218.202.220.2:5000/nn_live.m3u8?id=STARTV"
   },
   {
-  "num":"305",
+  "num":"306",
   "itemid":"港澳台海外频道",
   "name":"MTV",
   "urllist":
   "rtmp://58.200.131.2:1935/livetv/channelv"
   },
   {
-  "num":"306",
+  "num":"307",
   "itemid":"港澳台海外频道",
   "name":"国家地理",
   "urllist":
   "rtmp://58.200.131.2:1935/livetv/natlgeo#rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo"
   },
   {
-  "num":"307",
+  "num":"308",
   "itemid":"港澳台海外频道",
   "name":"Sony Movie",
   "urllist":
   "http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8"
   },
   {
-  "num":"308",
+  "num":"309",
   "itemid":"港澳台海外频道",
   "name":"BBC World News",
   "urllist":
   "http://89.211.63.16:1935/HR06/HR06.stream/chunklist.m3u8"
   },
   {
-  "num":"309",
+  "num":"310",
   "itemid":"港澳台海外频道",
   "name":"Sky News",
   "urllist":
   "http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8#http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8#http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/07.m3u8#http://ovh.easyview.eu/hls/bbc1.m3u8"
   },
   {
-  "num":"310",
+  "num":"311",
   "itemid":"港澳台海外频道",
   "name":"CBN News",
   "urllist":
   "http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8"
   },
   {
-  "num":"311",
+  "num":"312",
   "itemid":"港澳台海外频道",
   "name":"美国中文电视",
   "urllist":
   "rtmp://media3.sinovision.net:1935/live/livestream#http://ec.sinovision.net/video/ts/lv.m3u8"
   },
   {
-  "num":"312",
+  "num":"313",
   "itemid":"港澳台海外频道",
   "name":"亚太第一卫视",
   "urllist":
   "rtmp://v1.one-tv.com/live/mpegts.stream#http://v1.one-tv.com:1935/live/mpegts.stream/playlist.m3u8"
   },
   {
-  "num":"313",
+  "num":"314",
   "itemid":"港澳台海外频道",
   "name":"壹新闻",
   "urllist":
