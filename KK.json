@@ -4,490 +4,490 @@
   "itemid":"央视频道",
   "name":"CCTV-1综合HD",
   "urllist":
-  "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226154/index.m3u8"
+  "http://223.110.241.203:6610/gitv/live1/G_CCTV-1-CQ/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226154/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225548/index.m3u8"
   },
   {
   "num":"002",
   "itemid":"央视频道",
   "name":"CCTV-2财经HD",
   "urllist":
-  "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226138/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226138/index.m3u8"
+  "http://223.110.241.203:6610/gitv/live1/G_CCTV-2-CQ/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226138/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225494/index.m3u8"
   },
   {
   "num":"003",
   "itemid":"央视频道",
   "name":"CCTV-3综艺HD",
   "urllist":
-  "http://111.40.205.87/PLTV/88888888/224/3221225606/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226485/index.m3u8"
+  "http://223.110.241.203:6610/gitv/live1/G_CCTV-3-CQ/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226485/index.m3u8"
   },
   {
   "num":"004",
   "itemid":"央视频道",
   "name":"CCTV-4中文国际HD",
   "urllist":
-  "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226156/1.m3u8"
+  "http://223.110.241.203:6610/gitv/live1/G_CCTV-4-CQ/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225510/index.m3u8"
   },
   {
   "num":"005",
   "itemid":"央视频道",
   "name":"CCTV-5+体育赛事HD",
   "urllist":
-  "http://live.aikan.miguvideo.com/PLTV/88888888/224/3221228810/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226406/index.m3u8"
+  "http://223.110.241.203:6610/gitv/live1/G_CCTV-5PLUS-CQ/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226406/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225534/index.m3u8"
   },
   {
   "num":"006",
   "itemid":"央视频道",
   "name":"CCTV-5体育HD",
   "urllist":
-  "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226257/1.m3u8#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229106/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226400/index.m3u8"
+  "http://223.110.241.203:6610/gitv/live1/G_CCTV-5-CQ/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226400/index.m3u8"
   },
   {
   "num":"007",
   "itemid":"央视频道",
   "name":"CCTV-6电影HD",
   "urllist":
-  "http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229091/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226433/index.m3u8"
+  "http://223.110.241.203:6610/gitv/live1/G_CCTV-6-CQ/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226433/index.m3u8"
   },
   {
   "num":"008",
   "itemid":"央视频道",
   "name":"CCTV-7军事农业HD",
   "urllist":
-  "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225863/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226122/index.m3u8"
+  "http://223.110.241.203:6610/gitv/live1/G_CCTV-7-HQ/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226122/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225497/index.m3u8"
   },
   {
   "num":"009",
   "itemid":"央视频道",
   "name":"CCTV-8电视剧HD",
   "urllist":
-  "http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229083/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226493/index.m3u8"
+  "http://223.110.241.203:6610/gitv/live1/G_CCTV-8-CQ/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226493/index.m3u8"
   },
   {
   "num":"010",
   "itemid":"央视频道",
   "name":"CCTV-9记录HD",
   "urllist":
-  "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225865/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226156/index.m3u8"
+  "http://112.50.243.8/PLTV/88888888/224/3221225820/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226156/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225577/index.m3u8"
   },
   {
   "num":"011",
   "itemid":"央视频道",
   "name":"CCTV-10科教HD",
   "urllist":
-  "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225868/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226199/index.m3u8"
+  "http://223.110.241.203:6610/gitv/live1/G_CCTV-10-HQ/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226199/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225495/index.m3u8"
   },
   {
   "num":"012",
   "itemid":"央视频道",
   "name":"CCTV-11戏曲HD",
   "urllist":
-  "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225869/1.m3u8"
+  "http://112.50.243.8/PLTV/88888888/224/3221225815/1.m3u8#http://223.110.241.203:6610/gitv/live1/G_CCTV-11-HQ/index.m3u8"
   },
   {
   "num":"013",
   "itemid":"央视频道",
   "name":"CCTV-12社会与法HD",
   "urllist":
-  "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225870/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226167/index.m3u8"
+  "http://112.50.243.8/PLTV/88888888/224/3221225816/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226167/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225501/index.m3u8"
   },
   {
   "num":"014",
   "itemid":"央视频道",
   "name":"CCTV-13新闻HD",
   "urllist":
-  "http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226159/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226417/index.m3u8"
+  "http://223.110.241.203:6610/gitv/live1/G_CCTV-13-HQ/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226417/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225508/index.m3u8"
   },
   {
   "num":"015",
   "itemid":"央视频道",
   "name":"CCTV-14少儿HD",
   "urllist":
-  "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225872/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226126/index.m3u8"
+  "http://223.110.245.169/PLTV/3/224/3221227201/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226126/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225507/index.m3u8"
   },
   {
   "num":"016",
   "itemid":"央视频道",
   "name":"CCTV-15音乐HD",
   "urllist":
-  "http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8"
+  "http://223.110.241.203:6610/gitv/live1/G_CCTV-15/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225502/index.m3u8#http://ivi.bupt.edu.cn/hls/cctv15.m3u8"
   },
   {
   "num":"017",
   "itemid":"央视频道",
   "name":"CCTV-16NEWS",
   "urllist":
-  "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225867/1.m3u8#http://ivi.bupt.edu.cn/hls/cctv16.m3u8"
+  "http://ivi.bupt.edu.cn/hls/cctv16.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225509/index.m3u8"
   },
   {
   "num":"018",
   "itemid":"央视频道",
   "name":"CCTV-17农业农村HD",
   "urllist":
-  "http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8"
-  },
-  {
-  "num":"019",
-  "itemid":"央视频道",
-  "name":"CCTV-风云音乐",
-  "urllist":
-  "http://zb.j19o.cn/sc.php?scn=fyyy"
-  },
-  {
-  "num":"020",
-  "itemid":"央视频道",
-  "name":"CCTV-世界地理",
-  "urllist":
-  "http://zb.j19o.cn/sc.php?scn=sjdl"
+  "http://39.135.36.140:18890/000000001000/1000000005000056836/1.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000005000056836&owchid=ystenlive&owsid=1106497909461196027&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE6skxOPttMtBQzbEMb71jMrM9bNA5sjuldmGASVEj1FB1TOzqCEWAK6w%2fJbtYz8kEYu99sUSfTSd48Av%2fzOzjC1"
   },
   {
   "num":"101",
   "itemid":"地方卫视",
   "name":"凤凰香港HD",
   "urllist":
-  "http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226120/1.m3u8"
+  "http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8"
   },
   {
   "num":"102",
   "itemid":"地方卫视",
   "name":"凤凰中文HD",
   "urllist":
-  "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226143/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226368/index.m3u8"
+  "http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226368/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226368/index.m3u8"
   },
   {
   "num":"103",
   "itemid":"地方卫视",
   "name":"凤凰资讯HD",
   "urllist":
-  "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226142/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8"
+  "http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8"
   },
   {
   "num":"104",
   "itemid":"地方卫视",
   "name":"湖南卫视HD",
   "urllist":
-  "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226162/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226162/index.m3u8"
+  "http://223.110.241.203:6610/gitv/live1/G_HUNAN-CQ/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226162/index.m3u8#http://ivi.bupt.edu.cn/hls/hunanhd.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225547/index.m3u8"
   },
   {
   "num":"105",
   "itemid":"地方卫视",
   "name":"江苏卫视HD",
   "urllist":
-  "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226140/index.m3u8"
+  "http://223.110.241.203:6610/gitv/live1/G_JIANGSU-CQ/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226140/index.m3u8#http://ivi.bupt.edu.cn/hls/jshd.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225558/index.m3u8"
   },
   {
   "num":"106",
   "itemid":"地方卫视",
   "name":"浙江卫视HD",
   "urllist":
-  "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226247/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226136/index.m3u8"
+  "http://223.110.241.203:6610/gitv/live1/G_ZHEJIANG-CQ/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226136/index.m3u8#http://ivi.bupt.edu.cn/hls/zjhd.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225556/index.m3u8"
   },
   {
   "num":"107",
   "itemid":"地方卫视",
   "name":"安徽卫视HD",
   "urllist":
-  "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226223/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226185/index.m3u8"
+  "http://223.110.241.203:6610/gitv/live1/G_ANHUI-CQ/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226185/index.m3u8#http://ivi.bupt.edu.cn/hls/ahhd.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225561/index.m3u8"
   },
   {
   "num":"108",
   "itemid":"地方卫视",
   "name":"北京卫视HD",
   "urllist":
-  "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226164/index.m3u8"
+  "http://223.110.241.203:6610/gitv/live1/G_BEIJING-CQ/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226164/index.m3u8#http://ivi.bupt.edu.cn/hls/btv1hd.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225578/index.m3u8"
   },
   {
   "num":"109",
   "itemid":"地方卫视",
   "name":"东方卫视HD",
   "urllist":
-  "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226142/index.m3u8"
+  "http://223.110.241.203:6610/gitv/live1/G_DONGFANG-CQ/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226142/index.m3u8#http://ivi.bupt.edu.cn/hls/dfhd.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225527/index.m3u8"
   },
   {
   "num":"110",
   "itemid":"地方卫视",
   "name":"广东卫视HD",
   "urllist":
-  "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226238/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226225/index.m3u8"
+  "http://223.110.241.203:6610/gitv/live1/G_GUANGDONG-CQ/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226225/index.m3u8#http://ivi.bupt.edu.cn/hls/gdhd.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225511/index.m3u8"
   },
   {
   "num":"111",
   "itemid":"地方卫视",
   "name":"黑龙江卫视HD",
   "urllist":
-  "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226201/index.m3u8"
+  "http://223.110.241.203:6610/gitv/live1/G_HEILONGJIANG-CQ/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226201/index.m3u8#http://ivi.bupt.edu.cn/hls/hljhd.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225575/index.m3u8"
   },
   {
   "num":"112",
   "itemid":"地方卫视",
   "name":"湖北卫视HD",
   "urllist":
-  "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226310/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226197/index.m3u8"
+  "http://223.110.241.203:6610/gitv/live1/G_HUBEI-CQ/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226197/index.m3u8#http://ivi.bupt.edu.cn/hls/hbhd.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225557/index.m3u8"
   },
   {
   "num":"113",
   "itemid":"地方卫视",
   "name":"辽宁卫视HD",
   "urllist":
-  "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226336/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226148/index.m3u8"
+  "http://223.110.241.203:6610/gitv/live1/G_LIAONING-CQ/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226148/index.m3u8#http://ivi.bupt.edu.cn/hls/lnhd.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225559/index.m3u8"
   },
   {
   "num":"114",
   "itemid":"地方卫视",
   "name":"山东卫视HD",
   "urllist":
-  "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226308/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226144/index.m3u8"
+  "http://223.110.241.203:6610/gitv/live1/G_SHANDONG-CQ/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226144/index.m3u8#http://ivi.bupt.edu.cn/hls/sdhd.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225569/index.m3u8"
   },
   {
   "num":"115",
   "itemid":"地方卫视",
   "name":"深圳卫视HD",
   "urllist":
-  "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225897/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226203/index.m3u8"
+  "http://223.110.241.203:6610/gitv/live1/G_SHENZHEN-CQ/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226203/index.m3u8#http://ivi.bupt.edu.cn/hls/szhd.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225515/index.m3u8"
   },
   {
   "num":"116",
   "itemid":"地方卫视",
   "name":"天津卫视HD",
   "urllist":
-  "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225899/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226182/index.m3u8"
+  "http://223.110.241.203:6610/gitv/live1/G_TIANJIN-CQ/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226182/index.m3u8#http://ivi.bupt.edu.cn/hls/tjhd.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225562/index.m3u8"
   },
   {
   "num":"117",
   "itemid":"地方卫视",
   "name":"重庆卫视HD",
   "urllist":
-  "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226337/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226217/index.m3u8"
+  "http://223.110.242.130:6610/cntv/live1/chongqingstv/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226217/index.m3u8#http://223.110.243.138/PLTV/3/224/3221227421/index.m3u8#http://ivi.bupt.edu.cn/hls/cqhd.m3u8"
   },
   {
   "num":"118",
   "itemid":"地方卫视",
   "name":"河南卫视HD",
   "urllist":
-  "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225882/1.m3u8"
+  "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225574/index.m3u8"
   },
   {
   "num":"119",
   "itemid":"地方卫视",
   "name":"广西卫视HD",
   "urllist":
-  "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225879/1.m3u8"
+  "http://ivi.bupt.edu.cn/hls/gxtv.m3u8"
   },
   {
   "num":"120",
   "itemid":"地方卫视",
   "name":"河北卫视HD",
   "urllist":
-  "http://live01.hebtv.com/channels/hebtv/video_channel_04/flv:2000k/live"
+  "http://live01.hebtv.com/channels/hebtv/video_channel_04/flv:2000k/live#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225553/index.m3u8"
   },
   {
   "num":"121",
   "itemid":"地方卫视",
   "name":"内蒙古卫视HD",
   "urllist":
-  "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8"
+  "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225554/index.m3u8"
   },
   {
   "num":"122",
   "itemid":"地方卫视",
   "name":"四川卫视HD",
   "urllist":
-  "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225898/1.m3u8"
+  "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225563/index.m3u8"
   },
   {
   "num":"123",
   "itemid":"地方卫视",
   "name":"贵州卫视HD",
   "urllist":
-  "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225880/1.m3u8"
+  "http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=5468064193211864646&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225522/index.m3u8"
   },
   {
   "num":"124",
   "itemid":"地方卫视",
   "name":"云南卫视HD",
   "urllist":
-  "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225902/1.m3u8"
+  "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225573/index.m3u8"
   },
   {
   "num":"125",
   "itemid":"地方卫视",
   "name":"东南卫视HD",
   "urllist":
-  "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225876/1.m3u8"
+  "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225520/index.m3u8"
   },
   {
   "num":"126",
   "itemid":"地方卫视",
   "name":"山西卫视HD",
   "urllist":
-  "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225895/1.m3u8"
+  "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225572/index.m3u8"
   },
   {
   "num":"127",
   "itemid":"地方卫视",
   "name":"江西卫视HD",
   "urllist":
-  "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225888/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226128/index.m3u8"
+  "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225564/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226128/index.m3u8"
   },
   {
   "num":"128",
   "itemid":"地方卫视",
   "name":"甘肃卫视HD",
   "urllist":
-  "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225877/1.m3u8"
+  "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225568/index.m3u8"
   },
   {
   "num":"129",
   "itemid":"地方卫视",
   "name":"旅游卫视HD",
   "urllist":
-  "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225890/1.m3u8"
+  "http://ivi.bupt.edu.cn/hls/lytv.m3u"
   },
   {
   "num":"201",
   "itemid":"港澳台海外频道",
   "name":"HBO HD",
   "urllist":
-  "http://cloud-play.hhalloy.com/live/13e83b20bc716e68221da438d761d352.flv#http://218.202.220.2:5000/nn_live.m3u8?id=HBO#http://pili-live-hdl.qhmywl.com/dsdtv/13e83b20bc716e68221da438d761d352.flv#http://zszb.xyz/gtdy.php?id=HBOHD"
+  "http://pili-live-hdl.qhmywl.com/dsdtv/13e83b20bc716e68221da438d761d352.m3u8#http://218.202.220.2:5000/nn_live.m3u8?id=HBO#http://zszb.xyz/gtdy.php?id=HBOHD#http://107.148.215.110:13164/v/thk.php?token=DlTtzSPbo%2F%2FNXJUMwnQwQOsO&id=HBO"
   },
   {
   "num":"202",
   "itemid":"港澳台海外频道",
   "name":"HBO Hits",
   "urllist":
-  "http://cloud-play.hhalloy.com/live/c971b59822c6a91fab4bad8ca9b45f6b.flv"
+  "http://pili-live-hdl.qhmywl.com/dsdtv/c971b59822c6a91fab4bad8ca9b45f6b.m3u8"
   },
   {
   "num":"203",
   "itemid":"港澳台海外频道",
   "name":"HBO Signature",
   "urllist":
-  "http://cloud-play.hhalloy.com/live/fcdd3a3c591bdd0b07a17a92cb555cc1.flv"
+  "http://pili-live-hdl.qhmywl.com/dsdtv/fcdd3a3c591bdd0b07a17a92cb555cc1.m3u8"
   },
   {
   "num":"204",
   "itemid":"港澳台海外频道",
   "name":"HBO Family",
   "urllist":
-  "http://cloud-play.hhalloy.com/live/7e7ed5cc99029fd0d27e25009d7abdac.flv"
+  "http://pili-live-hdl.qhmywl.com/dsdtv/7e7ed5cc99029fd0d27e25009d7abdac.m3u8"
   },
   {
   "num":"205",
   "itemid":"港澳台海外频道",
   "name":"MTV",
   "urllist":
-  "http://pili-live-hdl.qhmywl.com/dsdtv/116911efa30e70c9cf64ea9a0e990a05.flv"
+  "http://pili-live-hdl.qhmywl.com/dsdtv/116911efa30e70c9cf64ea9a0e990a05.m3u8"
   },
   {
   "num":"206",
   "itemid":"港澳台海外频道",
   "name":"探索频道",
   "urllist":
-  "http://pili-live-hdl.qhmywl.com/dsdtv/ef2748398207873cae12b151ae78b0af.flv"
+  "http://pili-live-hdl.qhmywl.com/dsdtv/ef2748398207873cae12b151ae78b0af.m3u8"
   },
   {
   "num":"207",
   "itemid":"港澳台海外频道",
   "name":"星卫电影",
   "urllist":
-  "http://cloud-play.hhalloy.com/live/41e05f3849c21412aa8b347f18adb3f6.flv"
+  "http://pili-live-hdl.qhmywl.com/dsdtv/41e05f3849c21412aa8b347f18adb3f6.m3u8"
   },
   {
   "num":"208",
   "itemid":"港澳台海外频道",
-  "name":"CNN",
+  "name":"好莱坞电影",
   "urllist":
-  "http://cloud-play.hhalloy.com/live/5ff1924613169c0b7148e528d0cfe0fd.flv"
+  "http://pili-live-hdl.qhmywl.com/dsdtv/8e678565884cdebd00f8b3121b3b7ee1.m3u8"
   },
   {
   "num":"209",
   "itemid":"港澳台海外频道",
-  "name":"BBC",
+  "name":"FOX HD",
   "urllist":
-  "http://pili-live-hdl.qhmywl.com/dsdtv/6d735caeaf70f8901aa00f86aefc4dde.flv"
+  "http://pili-live-hdl.qhmywl.com/dsdtv/c2c91afe09bad325929734624c19d07b.m3u8"
   },
   {
   "num":"210",
   "itemid":"港澳台海外频道",
-  "name":"国家地理",
+  "name":"CNN",
   "urllist":
-  "http://cloud-play.hhalloy.com/live/a4540237835700ece1fc1e54ce826125.flv"
+  "http://pili-live-hdl.qhmywl.com/dsdtv/5ff1924613169c0b7148e528d0cfe0fd.m3u8"
   },
   {
   "num":"211",
   "itemid":"港澳台海外频道",
-  "name":"BBC地球",
+  "name":"BBC",
   "urllist":
-  "http://cloud-play.hhalloy.com/live/f7146ac8e65cb75112431f87ddcea22e.flv"
+  "http://pili-live-hdl.qhmywl.com/dsdtv/6d735caeaf70f8901aa00f86aefc4dde.m3u8"
   },
   {
   "num":"212",
   "itemid":"港澳台海外频道",
+  "name":"国家地理",
+  "urllist":
+  "http://pili-live-hdl.qhmywl.com/dsdtv/1b4017a457de80eec599895ec807e124.m3u8"
+  },
+  {
+  "num":"213",
+  "itemid":"港澳台海外频道",
+  "name":"BBC地球",
+  "urllist":
+  "http://pili-live-hdl.qhmywl.com/dsdtv/f7146ac8e65cb75112431f87ddcea22e.m3u8"
+  },
+  {
+  "num":"214",
+  "itemid":"港澳台海外频道",
   "name":"动物星球",
   "urllist":
-  "http://cloud-play.hhalloy.com/live/eb7d8081fb5400bb7bfa08c8bcd8c45d.flv"
+  "http://pili-live-hdl.qhmywl.com/dsdtv/eb7d8081fb5400bb7bfa08c8bcd8c45d.m3u8"
   },
   {
   "num":"301",
   "itemid":"影视娱乐",
   "name":"CHC高清",
   "urllist":
-  "http://zb.j19o.cn/sc.php?scn=chchd#http://ivi.bupt.edu.cn/hls/chchd.m3u8"
+  "http://ivi.bupt.edu.cn/hls/chchd.m3u8"
   },
   {
   "num":"302",
   "itemid":"影视娱乐",
   "name":"NewTV动作电影",
   "urllist":
-  "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226329/1.m3u8#http://183.207.249.10/PLTV/3/224/3221225529/index.m3u8"
+  "http://183.207.249.10/PLTV/3/224/3221225529/index.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225879/1.m3u8"
   },
   {
   "num":"303",
   "itemid":"影视娱乐",
   "name":"NewTV精品大剧",
   "urllist":
-  "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226331/1.m3u8#http://183.207.249.14/PLTV/3/224/3221225569/index.m3u8"
+  "http://183.207.249.14/PLTV/3/224/3221225569/index.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225889/1.m3u8"
   },
   {
   "num":"304",
   "itemid":"影视娱乐",
   "name":"NewTV家庭剧场",
   "urllist":
-  "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226330/1.m3u8#http://183.207.249.14/PLTV/3/224/3221225549/index.m3u8"
+  "http://183.207.249.14/PLTV/3/224/3221225549/index.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225882/1.m3u8"
   },
   {
   "num":"305",
   "itemid":"影视娱乐",
   "name":"NewTV惊悚悬疑",
   "urllist":
-  "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226294/1.m3u8#http://183.207.249.7/PLTV/3/224/3221225561/index.m3u8"
+  "http://183.207.249.7/PLTV/3/224/3221225561/index.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225885/1.m3u8"
   },
   {
   "num":"306",
   "itemid":"影视娱乐",
   "name":"NewTV超级电影",
   "urllist":
-  "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226133/1.m3u8#http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8"
+  "http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225926/1.m3u8"
   },
   {
   "num":"307",
   "itemid":"影视娱乐",
   "name":"NewTV精品记录",
   "urllist":
-  "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226332/1.m3u8#http://183.207.249.14/PLTV/3/224/3221225557/index.m3u8"
+  "http://183.207.249.14/PLTV/3/224/3221225557/index.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225888/1.m3u8"
   },
   {
   "num":"308",
   "itemid":"影视娱乐",
   "name":"NewTV明星大片",
   "urllist":
-  "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226295/1.m3u8#http://183.207.249.14/PLTV/3/224/3221225535/index.m3u8"
+  "http://183.207.249.14/PLTV/3/224/3221225535/index.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225893/1.m3u8"
   },
   {
   "num":"309",
   "itemid":"影视娱乐",
   "name":"NewTV精品体育",
   "urllist":
-  "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226328/1.m3u8#http://183.207.249.16/PLTV/3/224/3221225543/index.m3u8"
+  "http://183.207.249.16/PLTV/3/224/3221225543/index.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225886/1.m3u8"
   }
 ],
 "type":[
