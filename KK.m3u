@@ -227,30 +227,36 @@ http://pili-live-hdl.qhmywl.com/dsdtv/c971b59822c6a91fab4bad8ca9b45f6b.m3u8
 http://pili-live-hdl.qhmywl.com/dsdtv/fcdd3a3c591bdd0b07a17a92cb555cc1.m3u8
 #EXTINF:-1 group-title="港澳台海外频道",HBO Family
 http://pili-live-hdl.qhmywl.com/dsdtv/7e7ed5cc99029fd0d27e25009d7abdac.m3u8
-#EXTINF:-1 group-title="港澳台海外频道",MTV
-http://pili-live-hdl.qhmywl.com/dsdtv/116911efa30e70c9cf64ea9a0e990a05.m3u8
-#EXTINF:-1 group-title="港澳台海外频道",探索频道
-http://pili-live-hdl.qhmywl.com/dsdtv/ef2748398207873cae12b151ae78b0af.m3u8
-#EXTINF:-1 group-title="港澳台海外频道",星卫电影
-http://pili-live-hdl.qhmywl.com/dsdtv/41e05f3849c21412aa8b347f18adb3f6.m3u8
 #EXTINF:-1 group-title="港澳台海外频道",好莱坞电影
 http://pili-live-hdl.qhmywl.com/dsdtv/8e678565884cdebd00f8b3121b3b7ee1.m3u8
-#EXTINF:-1 group-title="港澳台海外频道",FOX HD
-http://pili-live-hdl.qhmywl.com/dsdtv/c2c91afe09bad325929734624c19d07b.m3u8
-#EXTINF:-1 group-title="港澳台海外频道",CNN
-http://pili-live-hdl.qhmywl.com/dsdtv/5ff1924613169c0b7148e528d0cfe0fd.m3u8
+#EXTINF:-1 group-title="港澳台海外频道",星卫电影
+http://pili-live-hdl.qhmywl.com/dsdtv/41e05f3849c21412aa8b347f18adb3f6.m3u8
+#EXTINF:-1 group-title="港澳台海外频道",东森电影
+http://pili-live-hdl.qhmywl.com/dsdtv/d2325cfdfd53364263d307573f78e3ce.m3u8
+#EXTINF:-1 group-title="港澳台海外频道",纬来电影
+http://pili-live-hdl.qhmywl.com/dsdtv/4f10b67646969a422a5490deaaabbc69.m3u8
 #EXTINF:-1 group-title="港澳台海外频道",BBC
 http://pili-live-hdl.qhmywl.com/dsdtv/6d735caeaf70f8901aa00f86aefc4dde.m3u8
-#EXTINF:-1 group-title="港澳台海外频道",国家地理
-http://pili-live-hdl.qhmywl.com/dsdtv/1b4017a457de80eec599895ec807e124.m3u8
-#EXTINF:-1 group-title="港澳台海外频道",BBC地球
-http://pili-live-hdl.qhmywl.com/dsdtv/f7146ac8e65cb75112431f87ddcea22e.m3u8
-#EXTINF:-1 group-title="港澳台海外频道",动物星球
-http://pili-live-hdl.qhmywl.com/dsdtv/eb7d8081fb5400bb7bfa08c8bcd8c45d.m3u8
+#EXTINF:-1 group-title="港澳台海外频道",靖天电影
+http://pili-live-hdl.qhmywl.com/dsdtv/5634d5c8ee5afeb118df8decf5eb6c56.m3u8
+#EXTINF:-1 group-title="港澳台海外频道",卫视电影
+http://pili-live-hdl.qhmywl.com/dsdtv/4499fb1dcef8c7a9f64276bf71bfc5b4.m3u8
+#EXTINF:-1 group-title="港澳台海外频道",东森洋片
+http://pili-live-hdl.qhmywl.com/dsdtv/24b15906d2250c062c0f0b5339e166b2.m3u8
+#EXTINF:-1 group-title="港澳台海外频道",美亚电影
+http://pili-live-hdl.qhmywl.com/dsdtv/4a1141f101530bff4fc0e9229625e6b5.m3u8
+#EXTINF:-1 group-title="港澳台海外频道",Cinema World
+http://pili-live-hdl.qhmywl.com/dsdtv/357252de83720e30d40c00bfba69c497.m3u8
 #EXTINF:-1 group-title="港澳台海外频道",澳视澳门
 http://61.244.22.4/ch1/ch1.live/index.m3u8
 #EXTINF:-1 group-title="影视娱乐",CHC高清
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
+#EXTINF:-1 group-title="影视娱乐",CHC动作
+http://iptv.pdsu.edu.cn/hls/chcatv.m3u8
+#EXTINF:-1 group-title="影视娱乐",CHC家庭
+http://iptv.pdsu.edu.cn/hls/chctv.m3u8
+#EXTINF:-1 group-title="影视娱乐",星空卫视
+http://iptv.pdsu.edu.cn/hls/startv.m3u8
 #EXTINF:-1 group-title="影视娱乐",NewTV动作电影
 http://112.50.243.8/PLTV/88888888/224/3221225879/1.m3u8
 #EXTINF:-1 group-title="影视娱乐",NewTV精品大剧
