@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 #EXTINF:-1 group-title="央视频道",CCTV-1综合HD
-http://223.110.241.203:6610/gitv/live1/G_CCTV-1-CQ/index.m3u8
+http://223.110.242.130:6610/gitv/live1/G_CCTV-1-CQ/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-1综合HD(备用1)
 http://183.230.80.8:80/000000001000/1000000001000021973/1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-1综合HD(备用2)
@@ -8,7 +8,7 @@ http://39.135.23.155/PLTV/88888888/224/3221229279/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-1综合HD(备用3)
 http://125.210.152.18:9090/live/CCTV2HD_H265.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-2财经HD
-http://223.110.241.203:6610/gitv/live1/G_CCTV-2-CQ/index.m3u8
+http://223.110.242.130:6610/gitv/live1/G_CCTV-2-CQ/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-2财经HD(备用1)
 http://183.230.80.8:80/000000001000/1000000001000012442/1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-2财经HD(备用2)
@@ -16,33 +16,33 @@ http://112.17.40.140/PLTV/88888888/224/3221226138/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-2财经HD(备用3)
 http://125.210.152.18:9090/live/CCTV2HD_H265.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-3综艺HD
-http://223.110.241.203:6610/gitv/live1/G_CCTV-3-CQ/index.m3u8
+http://223.110.242.130:6610/gitv/live1/G_CCTV-3-CQ/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-3综艺HD(备用1)
 http://112.17.40.140/PLTV/88888888/224/3221226485/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-3综艺HD(备用2)
 http://125.210.152.18:9090/live/CCTV3HD_H265.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-4中文国际HD
-http://223.110.241.203:6610/gitv/live1/G_CCTV-4-CQ/index.m3u8
+http://223.110.242.130:6610/gitv/live1/G_CCTV-4-CQ/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-4中文国际HD(备用1)
 http://183.230.80.8:80/000000001000/1000000002000031664/1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-4中文国际HD(备用2)
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225510/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-5+体育赛事HD
-http://223.110.241.203:6610/gitv/live1/G_CCTV-5PLUS-CQ/index.m3u8
+http://223.110.242.130:6610/gitv/live1/G_CCTV-5PLUS-CQ/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-5体育HD
-http://223.110.241.203:6610/gitv/live1/G_CCTV-5-CQ/index.m3u8
+http://223.110.242.130:6610/gitv/live1/G_CCTV-5-CQ/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-5体育HD(备用1)
 http://112.17.40.140/PLTV/88888888/224/3221226400/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-5体育HD(备用2)
 http://125.210.152.18:9090/live/CCTV5HD_H265.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-6电影HD
-http://223.110.241.203:6610/gitv/live1/G_CCTV-6-CQ/index.m3u8
+http://223.110.242.130:6610/gitv/live1/G_CCTV-6-CQ/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-6电影HD(备用1)
 http://112.17.40.140/PLTV/88888888/224/3221226433/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-6电影HD(备用2)
 http://125.210.152.18:9090/live/CCTV6HD_H265.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-7军事HD
-http://223.110.241.203:6610/gitv/live1/G_CCTV-7-HQ/index.m3u8
+http://223.110.242.130:6610/gitv/live1/G_CCTV-7-HQ/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-7军事HD(备用1)
 http://183.230.80.8:80/000000001000/1000000001000017218/1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-7军事HD(备用2)
@@ -50,7 +50,7 @@ http://112.17.40.140/PLTV/88888888/224/3221226122/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-7军事HD(备用3)
 http://125.210.152.18:9090/live/CCTV7HD_H265.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-8电视剧HD
-http://223.110.241.203:6610/gitv/live1/G_CCTV-8-CQ/index.m3u8
+http://223.110.242.130:6610/gitv/live1/G_CCTV-8-CQ/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-8电视剧HD(备用1)
 http://112.17.40.140/PLTV/88888888/224/3221226493/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-8电视剧HD(备用2)
@@ -62,7 +62,7 @@ http://183.230.80.8:80/000000001000/1000000001000028286/1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-9记录HD(备用2)
 http://112.17.40.140/PLTV/88888888/224/3221226156/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-10科教HD
-http://223.110.241.203:6610/gitv/live1/G_CCTV-10-HQ/index.m3u8
+http://223.110.242.130:6610/gitv/live1/G_CCTV-10-HQ/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-10科教HD(备用1)
 http://183.230.80.8:80/000000001000/1000000001000026367/1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-10科教HD(备用2)
@@ -72,7 +72,7 @@ http://183.230.80.8:80/000000001000/1000000002000019789/1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-11戏曲HD(备用1)
 http://112.50.243.8/PLTV/88888888/224/3221225815/1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-11戏曲HD(备用2)
-http://223.110.241.203:6610/gitv/live1/G_CCTV-11-HQ/index.m3u8
+http://223.110.242.130:6610/gitv/live1/G_CCTV-11-HQ/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-12社会与法HD
 http://112.50.243.8/PLTV/88888888/224/3221225816/1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-12社会与法HD(备用1)
@@ -82,7 +82,7 @@ http://112.17.40.140/PLTV/88888888/224/3221226167/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-12社会与法HD(备用3)
 http://125.210.152.18:9090/live/CCTV12HD_H265.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-13新闻HD
-http://223.110.241.203:6610/gitv/live1/G_CCTV-13-HQ/index.m3u8
+http://223.110.242.130:6610/gitv/live1/G_CCTV-13-HQ/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-13新闻HD(备用1)
 http://183.230.80.8:80/000000001000/1000000002000021303/1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-13新闻HD(备用2)
@@ -128,59 +128,59 @@ http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 #EXTINF:-1 group-title="地方卫视",凤凰资讯HD(备用)
 http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
 #EXTINF:-1 group-title="地方卫视",湖南卫视HD
-http://223.110.241.203:6610/gitv/live1/G_HUNAN-CQ/index.m3u8
+http://223.110.242.130:6610/gitv/live1/G_HUNAN-CQ/index.m3u8
 #EXTINF:-1 group-title="地方卫视",湖南卫视HD(备用1)
 http://112.17.40.140/PLTV/88888888/224/3221226162/index.m3u8
 #EXTINF:-1 group-title="地方卫视",湖南卫视HD(备用2)
 http://125.210.152.20:9090/live/HNWSHD_H265.m3u8
 #EXTINF:-1 group-title="地方卫视",江苏卫视HD
-http://223.110.241.203:6610/gitv/live1/G_JIANGSU-CQ/index.m3u8
+http://223.110.242.130:6610/gitv/live1/G_JIANGSU-CQ/index.m3u8
 #EXTINF:-1 group-title="地方卫视",江苏卫视HD(备用1)
 http://112.17.40.140/PLTV/88888888/224/3221226140/index.m3u8
 #EXTINF:-1 group-title="地方卫视",江苏卫视HD(备用2)
 http://125.210.152.20:9090/live/JSWSHD_H265.m3u8
 #EXTINF:-1 group-title="地方卫视",浙江卫视HD
-http://223.110.241.203:6610/gitv/live1/G_ZHEJIANG-CQ/index.m3u8
+http://223.110.242.130:6610/gitv/live1/G_ZHEJIANG-CQ/index.m3u8
 #EXTINF:-1 group-title="地方卫视",浙江卫视HD(备用1)
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225556/index.m3u8
 #EXTINF:-1 group-title="地方卫视",浙江卫视HD(备用2)
 http://125.210.152.20:9090/live/ZJWSHD_H265.m3u8
 #EXTINF:-1 group-title="地方卫视",安徽卫视HD
-http://223.110.241.203:6610/gitv/live1/G_ANHUI-CQ/index.m3u8
+http://223.110.242.130:6610/gitv/live1/G_ANHUI-CQ/index.m3u8
 #EXTINF:-1 group-title="地方卫视",安徽卫视HD(备用1)
 http://112.17.40.140/PLTV/88888888/224/3221226185/index.m3u8
 #EXTINF:-1 group-title="地方卫视",安徽卫视HD(备用2)
 http://125.210.152.20:9090/live/AHWSHD_H265.m3u8
 #EXTINF:-1 group-title="地方卫视",北京卫视HD
-http://223.110.241.203:6610/gitv/live1/G_BEIJING-CQ/index.m3u8
+http://223.110.242.130:6610/gitv/live1/G_BEIJING-CQ/index.m3u8
 #EXTINF:-1 group-title="地方卫视",北京卫视HD(备用1)
 http://112.17.40.140/PLTV/88888888/224/3221226164/index.m3u8
 #EXTINF:-1 group-title="地方卫视",北京卫视HD(备用2)
 http://125.210.152.20:9090/live/BJWSHD_H265.m3u8
 #EXTINF:-1 group-title="地方卫视",东方卫视HD
-http://223.110.241.203:6610/gitv/live1/G_DONGFANG-CQ/index.m3u8
+http://223.110.242.130:6610/gitv/live1/G_DONGFANG-CQ/index.m3u8
 #EXTINF:-1 group-title="地方卫视",东方卫视HD(备用1)
 http://112.17.40.140/PLTV/88888888/224/3221226142/index.m3u8
 #EXTINF:-1 group-title="地方卫视",东方卫视HD(备用2)
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225527/index.m3u8
 #EXTINF:-1 group-title="地方卫视",广东卫视HD
-http://223.110.241.203:6610/gitv/live1/G_GUANGDONG-CQ/index.m3u8
+http://223.110.242.130:6610/gitv/live1/G_GUANGDONG-CQ/index.m3u8
 #EXTINF:-1 group-title="地方卫视",广东卫视HD(备用1)
 http://112.17.40.140/PLTV/88888888/224/3221226225/index.m3u8
 #EXTINF:-1 group-title="地方卫视",广东卫视HD(备用2)
 http://125.210.152.20:9090/live/GDWSHD_H265.m3u8
 #EXTINF:-1 group-title="地方卫视",黑龙江卫视HD
-http://223.110.241.203:6610/gitv/live1/G_HEILONGJIANG-CQ/index.m3u8
+http://223.110.242.130:6610/gitv/live1/G_HEILONGJIANG-CQ/index.m3u8
 #EXTINF:-1 group-title="地方卫视",湖北卫视HD
-http://223.110.241.203:6610/gitv/live1/G_HUBEI-CQ/index.m3u8
+http://223.110.242.130:6610/gitv/live1/G_HUBEI-CQ/index.m3u8
 #EXTINF:-1 group-title="地方卫视",辽宁卫视HD
-http://223.110.241.203:6610/gitv/live1/G_LIAONING-CQ/index.m3u8
+http://223.110.242.130:6610/gitv/live1/G_LIAONING-CQ/index.m3u8
 #EXTINF:-1 group-title="地方卫视",山东卫视HD
-http://223.110.241.203:6610/gitv/live1/G_SHANDONG-CQ/index.m3u8
+http://223.110.242.130:6610/gitv/live1/G_SHANDONG-CQ/index.m3u8
 #EXTINF:-1 group-title="地方卫视",深圳卫视HD
-http://223.110.241.203:6610/gitv/live1/G_SHENZHEN-CQ/index.m3u8
+http://223.110.242.130:6610/gitv/live1/G_SHENZHEN-CQ/index.m3u8
 #EXTINF:-1 group-title="地方卫视",天津卫视HD
-http://223.110.241.203:6610/gitv/live1/G_TIANJIN-CQ/index.m3u8
+http://223.110.242.130:6610/gitv/live1/G_TIANJIN-CQ/index.m3u8
 #EXTINF:-1 group-title="地方卫视",重庆卫视HD
 http://223.110.242.130:6610/cntv/live1/chongqingstv/index.m3u8
 #EXTINF:-1 group-title="地方卫视",重庆卫视HD(备用)
@@ -219,36 +219,6 @@ http://112.17.40.140/PLTV/88888888/224/3221226128/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225568/index.m3u8
 #EXTINF:-1 group-title="地方卫视",旅游卫视HD
 http://ivi.bupt.edu.cn/hls/lytv.m3u8
-#EXTINF:-1 group-title="港澳台海外频道",HBO HD
-http://pili-live-hdl.qhmywl.com/dsdtv/13e83b20bc716e68221da438d761d352.m3u8
-#EXTINF:-1 group-title="港澳台海外频道",HBO Hits
-http://pili-live-hdl.qhmywl.com/dsdtv/c971b59822c6a91fab4bad8ca9b45f6b.m3u8
-#EXTINF:-1 group-title="港澳台海外频道",HBO Signature
-http://pili-live-hdl.qhmywl.com/dsdtv/fcdd3a3c591bdd0b07a17a92cb555cc1.m3u8
-#EXTINF:-1 group-title="港澳台海外频道",HBO Family
-http://pili-live-hdl.qhmywl.com/dsdtv/7e7ed5cc99029fd0d27e25009d7abdac.m3u8
-#EXTINF:-1 group-title="港澳台海外频道",好莱坞电影
-http://pili-live-hdl.qhmywl.com/dsdtv/8e678565884cdebd00f8b3121b3b7ee1.m3u8
-#EXTINF:-1 group-title="港澳台海外频道",星卫电影
-http://pili-live-hdl.qhmywl.com/dsdtv/41e05f3849c21412aa8b347f18adb3f6.m3u8
-#EXTINF:-1 group-title="港澳台海外频道",东森电影
-http://pili-live-hdl.qhmywl.com/dsdtv/d2325cfdfd53364263d307573f78e3ce.m3u8
-#EXTINF:-1 group-title="港澳台海外频道",纬来电影
-http://pili-live-hdl.qhmywl.com/dsdtv/4f10b67646969a422a5490deaaabbc69.m3u8
-#EXTINF:-1 group-title="港澳台海外频道",BBC
-http://pili-live-hdl.qhmywl.com/dsdtv/6d735caeaf70f8901aa00f86aefc4dde.m3u8
-#EXTINF:-1 group-title="港澳台海外频道",靖天电影
-http://pili-live-hdl.qhmywl.com/dsdtv/5634d5c8ee5afeb118df8decf5eb6c56.m3u8
-#EXTINF:-1 group-title="港澳台海外频道",卫视电影
-http://pili-live-hdl.qhmywl.com/dsdtv/4499fb1dcef8c7a9f64276bf71bfc5b4.m3u8
-#EXTINF:-1 group-title="港澳台海外频道",东森洋片
-http://pili-live-hdl.qhmywl.com/dsdtv/24b15906d2250c062c0f0b5339e166b2.m3u8
-#EXTINF:-1 group-title="港澳台海外频道",美亚电影
-http://pili-live-hdl.qhmywl.com/dsdtv/4a1141f101530bff4fc0e9229625e6b5.m3u8
-#EXTINF:-1 group-title="港澳台海外频道",Cinema World
-http://pili-live-hdl.qhmywl.com/dsdtv/357252de83720e30d40c00bfba69c497.m3u8
-#EXTINF:-1 group-title="港澳台海外频道",澳视澳门
-http://61.244.22.4/ch1/ch1.live/index.m3u8
 #EXTINF:-1 group-title="影视娱乐",CHC高清
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
 #EXTINF:-1 group-title="影视娱乐",CHC动作
