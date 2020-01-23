@@ -54,8 +54,10 @@ http://itv.ahau.edu.cn/hls/cctv12hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-12社会与法HD(备用1)
 http://112.50.243.8/PLTV/88888888/224/3221225816/1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-13新闻HD
-http://39.134.7.247/000000001000/1000000002000021303/1.m3u8
+http://183.194.230.223/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-13新闻HD(备用1)
+http://39.134.7.247/000000001000/1000000002000021303/1.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-13新闻HD(备用2)
 http://itv.ahau.edu.cn/hls/cctv13.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-14少儿HD
 http://183.230.80.8:80/000000001000/1000000001000021349/1.m3u8
@@ -69,6 +71,8 @@ http://39.134.7.247/000000001000/1000000002000008163/1.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225509/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-17农业农村HD
 http://183.230.80.8:80/000000001000/1000000005000056836/1.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-17超高清4K
+http://140.249.30.106/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-第一剧场
 http://itv.ahau.edu.cn/hls/dyjctv.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-第一剧场(备用1)
@@ -197,8 +201,6 @@ http://112.50.243.8/PLTV/88888888/224/3221225893/1.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221225886/1.m3u8
 #EXTINF:-1 group-title="重庆频道",重庆新闻
 http://219.153.252.50/PLTV/88888888/224/3221225531/chunklist.m3u8
-#EXTINF:-1 group-title="重庆频道",重庆新闻(备用)
-http://vss.cbnmtv.com/live/CQTV_xw_hd_1.m3u8?segmentserverid=CQTV_xw_hd_1&channelid=CQTV_xw_hd_1
 #EXTINF:-1 group-title="重庆频道",重庆影视
 http://219.153.252.50/PLTV/88888888/224/3221225633/chunklist.m3u8
 #EXTINF:-1 group-title="重庆频道",重庆都市
