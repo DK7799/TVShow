@@ -2,60 +2,84 @@
 #EXTINF:-1 group-title="央视频道",CCTV-1综合HD
 http://140.249.30.41/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-1综合HD(备用1)
-http://223.110.242.133:6610/gitv/live1/G_CCTV-1-CQ/index.m3u8
+http://60.255.149.208/tslive/c211_scc_20190617_t0x01q5a_original_r10/c211_scc_20190617_t0x01q5a_original_r10.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-1综合HD(备用2)
+http://223.110.242.133:6610/gitv/live1/G_CCTV-1-CQ/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-1综合HD(备用3)
 http://itv.ahau.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-2财经HD
 http://223.110.242.133:6610/gitv/live1/G_CCTV-2-CQ/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-2财经HD(备用1)
+http://60.255.149.208/tslive/c212_scc_20190617_y2vstiy0_original_r10/c212_scc_20190617_y2vstiy0_original_r10.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-2财经HD(备用2)
 http://itv.ahau.edu.cn/hls/cctv2hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-3综艺HD
 http://223.110.242.133:6610/gitv/live1/G_CCTV-3-CQ/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-3综艺HD(备用1)
+http://60.255.149.208/tslive/c213_scc_20190618_0apbps2b_original_r10/c213_scc_20190618_0apbps2b_original_r10.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-3综艺HD(备用2)
 http://itv.ahau.edu.cn/hls/cctv3hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-4中文国际HD
 http://223.110.242.133:6610/gitv/live1/G_CCTV-4-CQ/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-4中文国际HD(备用1)
+http://60.255.149.208/tslive/c214_scc_20190618_horpaeho_original_r10/c214_scc_20190618_horpaeho_original_r10.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-4中文国际HD(备用2)
 http://itv.ahau.edu.cn/hls/cctv4hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-5+体育赛事HD
 http://223.110.242.133:6610/gitv/live1/G_CCTV-5PLUS-CQ/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-5+体育赛事HD(备用1)
+http://60.255.149.208/tslive/c213_scc_20190618_4jwk1euz_original_r10/c213_scc_20190618_4jwk1euz_original_r10.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-5+体育赛事HD(备用2)
 http://itv.ahau.edu.cn/hls/cctv5phd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-5体育HD
 http://223.110.242.133:6610/gitv/live1/G_CCTV-5-CQ/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-5体育HD(备用1)
+http://60.255.149.208/tslive/c211_scc_20190618_g0ecxw42_original_r10/c211_scc_20190618_g0ecxw42_original_r10.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-5体育HD(备用2)
 http://itv.ahau.edu.cn/hls/cctv5hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-6电影HD
 http://223.110.242.133:6610/gitv/live1/G_CCTV-6-CQ/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-6电影HD(备用1)
+http://60.255.149.208/tslive/c212_scc_20190618_f0vs0sva_original_r10/c212_scc_20190618_f0vs0sva_original_r10.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-6电影HD(备用2)
 http://itv.ahau.edu.cn/hls/cctv6hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-7军事HD
 http://223.110.242.133:6610/gitv/live1/G_CCTV-7-HQ/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-7军事HD(备用1)
+http://60.255.149.208/tslive/c213_scc_20190618_dtnwkq23_original_r10/c213_scc_20190618_dtnwkq23_original_r10.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-7军事HD(备用2)
 http://itv.ahau.edu.cn/hls/cctv7hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-8电视剧HD
 http://140.249.30.41/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-8电视剧HD(备用1)
-http://223.110.242.133:6610/gitv/live1/G_CCTV-8-CQ/index.m3u8
+http://60.255.149.208/tslive/c214_scc_20190618_bihnj4fv_original_r10/c214_scc_20190618_bihnj4fv_original_r10.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-8电视剧HD(备用2)
+http://223.110.242.133:6610/gitv/live1/G_CCTV-8-CQ/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-8电视剧HD(备用3)
 http://itv.ahau.edu.cn/hls/cctv8hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-9记录HD
-http://itv.ahau.edu.cn/hls/cctv9hd.m3u8
+http://60.255.149.208/tslive/c211_scc_20190618_5dmwgabs_original_r10/c211_scc_20190618_5dmwgabs_original_r10.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-9记录HD(备用1)
-http://112.50.243.8/PLTV/88888888/224/3221225820/1.m3u8
+http://itv.ahau.edu.cn/hls/cctv9hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-10科教HD
 http://223.110.242.133:6610/gitv/live1/G_CCTV-10-HQ/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-10科教HD(备用1)
+http://60.255.149.208/tslive/c212_scc_20190618_bxdh5ymp_original_r10/c212_scc_20190618_bxdh5ymp_original_r10.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-10科教HD(备用2)
 http://itv.ahau.edu.cn/hls/cctv10hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-11戏曲HD
 http://183.230.80.8:80/000000001000/1000000002000019789/1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-11戏曲HD(备用1)
-http://112.50.243.8/PLTV/88888888/224/3221225815/1.m3u8
+http://60.255.149.208/tslive/c213_scc_20190618_nohp5ial_original_r10/c213_scc_20190618_nohp5ial_original_r10.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-11戏曲HD(备用2)
+http://112.50.243.8/PLTV/88888888/224/3221225815/1.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-11戏曲HD(备用3)
 http://39.134.7.247/000000001000/1000000002000019789/1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-12社会与法HD
-http://itv.ahau.edu.cn/hls/cctv12hd.m3u8
+http://60.255.149.208/tslive/c214_scc_20190618_afsgxiaq_original_r10/c214_scc_20190618_afsgxiaq_original_r10.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-12社会与法HD(备用1)
+http://itv.ahau.edu.cn/hls/cctv12hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-12社会与法HD(备用2)
 http://112.50.243.8/PLTV/88888888/224/3221225816/1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-13新闻HD
 http://140.249.30.41/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
@@ -66,16 +90,22 @@ http://39.134.7.247/000000001000/1000000002000021303/1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-13新闻HD(备用3)
 http://itv.ahau.edu.cn/hls/cctv13.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-14少儿HD
-http://183.230.80.8:80/000000001000/1000000001000021349/1.m3u8
+http://60.255.149.208/tslive/c211_scc_20190618_tg3qtz2h_original_r10/c211_scc_20190618_tg3qtz2h_original_r10.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-14少儿HD(备用1)
+http://183.230.80.8:80/000000001000/1000000001000021349/1.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-14少儿HD(备用2)
 http://itv.ahau.edu.cn/hls/cctv14hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-15音乐HD
 http://140.249.30.41/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-15音乐HD(备用)
+#EXTINF:-1 group-title="央视频道",CCTV-15音乐HD(备用1)
+http://60.255.149.208/tslive/c212_scc_20190618_sa0rcja5_original_r10/c212_scc_20190618_sa0rcja5_original_r10.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-15音乐HD(备用2)
 http://183.230.80.8:80/000000001000/1000000002000008163/1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-17农业农村HD
 http://140.249.30.41/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-17农业农村HD(备用)
+#EXTINF:-1 group-title="央视频道",CCTV-17农业农村HD(备用1)
+http://60.255.149.208/tslive/c211_scc_20190821_ebqtzqt2_original_r10/c211_scc_20190821_ebqtzqt2_original_r10.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-17农业农村HD(备用2)
 http://183.230.80.8:80/000000001000/1000000005000056836/1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-4K超高清
 http://140.249.30.106/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
@@ -188,11 +218,13 @@ http://140.249.30.41/tlivecloud-cdn.ysp.cctv.cn/001/2000291503.m3u8
 #EXTINF:-1 group-title="地方卫视",海南卫视HD(备用)
 http://itv.ahau.edu.cn/hls/lyhd.m3u8
 #EXTINF:-1 group-title="影视娱乐",CHC高清
+http://60.255.149.208/tslive/c211_scc_20190618_ek4k254b_original_r10/c211_scc_20190618_ek4k254b_original_r10.m3u8
+#EXTINF:-1 group-title="影视娱乐",CHC高清(备用)
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
 #EXTINF:-1 group-title="影视娱乐",CHC动作
-http://iptv.pdsu.edu.cn/hls/chcatv.m3u8
+http://60.255.149.208/tslive/c213_scc_20190618_wzkayvu1_original_r10/c213_scc_20190618_wzkayvu1_original_r10.m3u8
 #EXTINF:-1 group-title="影视娱乐",CHC家庭
-http://iptv.pdsu.edu.cn/hls/chctv.m3u8
+http://60.255.149.208/tslive/c212_scc_20190618_q0ktot1t_original_r10/c212_scc_20190618_q0ktot1t_original_r10.m3u8
 #EXTINF:-1 group-title="影视娱乐",星空卫视
 http://itv.ahau.edu.cn/hls/startv.m3u8
 #EXTINF:-1 group-title="影视娱乐",NewTV动作电影
