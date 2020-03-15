@@ -5,46 +5,68 @@ http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u
 http://223.110.242.133:6610/gitv/live1/G_CCTV-1-CQ/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-1综合HD(备用2)
 http://itv.ahau.edu.cn/hls/cctv1hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-1综合HD(备用3)
+http://hdtv.lzu6.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-2财经HD
 http://223.110.242.133:6610/gitv/live1/G_CCTV-2-CQ/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-2财经HD(备用1)
 http://itv.ahau.edu.cn/hls/cctv2hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-2财经HD(备用2)
+http://hdtv.lzu6.edu.cn/hls/cctv2hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-3综艺HD
 http://223.110.242.133:6610/gitv/live1/G_CCTV-3-CQ/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-3综艺HD(备用1)
 http://itv.ahau.edu.cn/hls/cctv3hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-3综艺HD(备用2)
+http://hdtv.lzu6.edu.cn/hls/cctv3hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-4中文国际HD
 http://223.110.242.133:6610/gitv/live1/G_CCTV-4-CQ/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-4中文国际HD(备用1)
 http://itv.ahau.edu.cn/hls/cctv4hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-4中文国际HD(备用2)
+http://hdtv.lzu6.edu.cn/hls/cctv4hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-5+体育赛事HD
 http://223.110.242.133:6610/gitv/live1/G_CCTV-5PLUS-CQ/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-5+体育赛事HD(备用1)
 http://itv.ahau.edu.cn/hls/cctv5phd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-5+体育赛事HD(备用2)
+http://hdtv.lzu6.edu.cn/hls/cctv5phd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-5体育HD
 http://223.110.242.133:6610/gitv/live1/G_CCTV-5-CQ/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-5体育HD(备用1)
 http://itv.ahau.edu.cn/hls/cctv5hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-5体育HD(备用2)
+http://hdtv.lzu6.edu.cn/hls/cctv5hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-6电影HD
 http://223.110.242.133:6610/gitv/live1/G_CCTV-6-CQ/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-6电影HD(备用1)
 http://itv.ahau.edu.cn/hls/cctv6hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-6电影HD(备用2)
+http://hdtv.lzu6.edu.cn/hls/cctv6hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-7军事HD
 http://223.110.242.133:6610/gitv/live1/G_CCTV-7-HQ/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-7军事HD(备用1)
 http://itv.ahau.edu.cn/hls/cctv7hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-7军事HD(备用2)
+http://hdtv.lzu6.edu.cn/hls/cctv7hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-8电视剧HD
 http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-8电视剧HD(备用1)
 http://223.110.242.133:6610/gitv/live1/G_CCTV-8-CQ/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-8电视剧HD(备用2)
 http://itv.ahau.edu.cn/hls/cctv8hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-8电视剧HD(备用3)
+http://hdtv.lzu6.edu.cn/hls/cctv8hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-9记录HD
 http://itv.ahau.edu.cn/hls/cctv9hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-9记录HD(备用1)
+http://hdtv.lzu6.edu.cn/hls/cctv9hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-10科教HD
 http://223.110.242.133:6610/gitv/live1/G_CCTV-10-HQ/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-10科教HD(备用1)
 http://itv.ahau.edu.cn/hls/cctv10hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-10科教HD(备用2)
+http://hdtv.lzu6.edu.cn/hls/cctv10hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-11戏曲HD
 http://183.230.80.8:80/000000001000/1000000002000019789/1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-11戏曲HD(备用1)
@@ -55,6 +77,8 @@ http://39.134.7.247/000000001000/1000000002000019789/1.m3u8
 http://itv.ahau.edu.cn/hls/cctv12hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-12社会与法HD(备用1)
 http://112.50.243.8/PLTV/88888888/224/3221225816/1.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-12社会与法HD(备用2)
+http://hdtv.lzu6.edu.cn/hls/cctv12hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-13新闻HD
 http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-13新闻HD(备用1)
@@ -65,6 +89,8 @@ http://itv.ahau.edu.cn/hls/cctv13.m3u8
 http://183.230.80.8:80/000000001000/1000000001000021349/1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-14少儿HD(备用1)
 http://itv.ahau.edu.cn/hls/cctv14hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-14少儿HD(备用2)
+http://hdtv.lzu6.edu.cn/hls/cctv14hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-15音乐HD
 http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-15音乐HD(备用1)
