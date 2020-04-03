@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 #EXTINF:-1 group-title="央视频道",CCTV-1综合HD
-http://120.204.20.72/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
+http://61.162.100.71/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-1综合HD(备用1)
 http://223.110.242.133:6610/gitv/live1/G_CCTV-1-CQ/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-1综合HD(备用2)
@@ -50,7 +50,7 @@ http://itv.ahau.edu.cn/hls/cctv7hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-7军事HD(备用2)
 http://hdtv.lzu6.edu.cn/hls/cctv7hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-8电视剧HD
-http://120.204.20.72/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
+http://61.162.100.71/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-8电视剧HD(备用1)
 http://223.110.242.133:6610/gitv/live1/G_CCTV-8-CQ/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-8电视剧HD(备用2)
@@ -80,7 +80,7 @@ http://112.50.243.8/PLTV/88888888/224/3221225816/1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-12社会与法HD(备用2)
 http://hdtv.lzu6.edu.cn/hls/cctv12hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-13新闻HD
-http://120.204.20.72/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
+http://61.162.100.71/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-13新闻HD(备用1)
 http://39.134.7.247/000000001000/1000000002000021303/1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-13新闻HD(备用2)
@@ -92,15 +92,15 @@ http://itv.ahau.edu.cn/hls/cctv14hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-14少儿HD(备用2)
 http://hdtv.lzu6.edu.cn/hls/cctv14hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-15音乐HD
-http://120.204.20.72/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
+http://61.162.100.71/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-15音乐HD(备用1)
 http://183.230.80.8:80/000000001000/1000000002000008163/1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-17农业农村HD
-http://120.204.20.72/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
+http://61.162.100.71/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-17农业农村HD(备用1)
 http://183.230.80.8:80/000000001000/1000000005000056836/1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-4K超高清
-http://120.204.20.72/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
+http://61.162.100.71/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-第一剧场
 http://itv.ahau.edu.cn/hls/dyjctv.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-第一剧场(备用)
@@ -120,19 +120,19 @@ http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
 #EXTINF:-1 group-title="地方卫视",凤凰资讯HD(备用)
 http://liveali.ifeng.com/live/FHZX.m3u8
 #EXTINF:-1 group-title="地方卫视",湖南卫视HD
-http://120.204.20.72/tlivecloud-cdn.ysp.cctv.cn/001/2000296203.m3u8
+http://61.162.100.71/tlivecloud-cdn.ysp.cctv.cn/001/2000296203.m3u8
 #EXTINF:-1 group-title="地方卫视",湖南卫视HD(备用1)
 http://223.110.242.133:6610/gitv/live1/G_HUNAN-CQ/index.m3u8
 #EXTINF:-1 group-title="地方卫视",湖南卫视HD(备用2)
 http://itv.ahau.edu.cn/hls/hunanhd.m3u8
 #EXTINF:-1 group-title="地方卫视",江苏卫视HD
-http://120.204.20.72/tlivecloud-cdn.ysp.cctv.cn/001/2000295603.m3u8
+http://61.162.100.71/tlivecloud-cdn.ysp.cctv.cn/001/2000295603.m3u8
 #EXTINF:-1 group-title="地方卫视",江苏卫视HD(备用1)
 http://223.110.242.133:6610/gitv/live1/G_JIANGSU-CQ/index.m3u8
 #EXTINF:-1 group-title="地方卫视",江苏卫视HD(备用2)
 http://itv.ahau.edu.cn/hls/jshd.m3u8
 #EXTINF:-1 group-title="地方卫视",浙江卫视HD
-http://120.204.20.72/tlivecloud-cdn.ysp.cctv.cn/001/2000295503.m3u8
+http://61.162.100.71/tlivecloud-cdn.ysp.cctv.cn/001/2000295503.m3u8
 #EXTINF:-1 group-title="地方卫视",浙江卫视HD(备用1)
 http://223.110.242.133:6610/gitv/live1/G_ZHEJIANG-CQ/index.m3u8
 #EXTINF:-1 group-title="地方卫视",浙江卫视HD(备用2)
@@ -150,7 +150,7 @@ http://223.110.242.133:6610/gitv/live1/G_DONGFANG-CQ/index.m3u8
 #EXTINF:-1 group-title="地方卫视",东方卫视HD(备用)
 http://39.134.7.247/000000001000/1000000001000030202/1.m3u8
 #EXTINF:-1 group-title="地方卫视",广东卫视HD
-http://120.204.20.72/tlivecloud-cdn.ysp.cctv.cn/001/2000292703.m3u8
+http://61.162.100.71/tlivecloud-cdn.ysp.cctv.cn/001/2000292703.m3u8
 #EXTINF:-1 group-title="地方卫视",广东卫视HD(备用1)
 http://223.110.242.133:6610/gitv/live1/G_GUANGDONG-CQ/index.m3u8
 #EXTINF:-1 group-title="地方卫视",广东卫视HD(备用2)
@@ -168,7 +168,7 @@ http://39.134.7.247/000000001000/1000000001000011645/1.m3u8
 #EXTINF:-1 group-title="地方卫视",天津卫视HD
 http://39.134.7.247/000000001000/1000000001000000831/1.m3u8
 #EXTINF:-1 group-title="地方卫视",重庆卫视HD
-http://120.204.20.72/tlivecloud-cdn.ysp.cctv.cn/001/2000297803.m3u8
+http://61.162.100.71/tlivecloud-cdn.ysp.cctv.cn/001/2000297803.m3u8
 #EXTINF:-1 group-title="地方卫视",重庆卫视HD(备用1)
 http://39.134.7.247/000000001000/1000000002000018937/1.m3u8
 #EXTINF:-1 group-title="地方卫视",重庆卫视HD(备用2)
@@ -184,7 +184,7 @@ http://itv.ahau.edu.cn/hls/hebhd.m3u8
 #EXTINF:-1 group-title="地方卫视",内蒙古卫视HD
 http://itv.ahau.edu.cn/hls/nmtv.m3u8
 #EXTINF:-1 group-title="地方卫视",四川卫视HD
-http://120.204.20.72/tlivecloud-cdn.ysp.cctv.cn/001/2000295003.m3u8
+http://61.162.100.71/tlivecloud-cdn.ysp.cctv.cn/001/2000295003.m3u8
 #EXTINF:-1 group-title="地方卫视",四川卫视HD(备用)
 http://itv.ahau.edu.cn/hls/schd.m3u8
 #EXTINF:-1 group-title="地方卫视",贵州卫视HD
@@ -206,7 +206,7 @@ http://112.17.40.140/PLTV/88888888/224/3221226128/index.m3u8
 #EXTINF:-1 group-title="地方卫视",甘肃卫视HD
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225568/index.m3u8
 #EXTINF:-1 group-title="地方卫视",海南卫视HD
-http://120.204.20.72/tlivecloud-cdn.ysp.cctv.cn/001/2000291503.m3u8
+http://61.162.100.71/tlivecloud-cdn.ysp.cctv.cn/001/2000291503.m3u8
 #EXTINF:-1 group-title="地方卫视",海南卫视HD(备用)
 http://itv.ahau.edu.cn/hls/lyhd.m3u8
 #EXTINF:-1 group-title="影视娱乐",CHC高清
