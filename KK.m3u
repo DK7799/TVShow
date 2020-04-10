@@ -90,10 +90,14 @@ http://112.50.243.8/PLTV/88888888/224/3221225816/1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-12社会与法HD(备用2)
 http://hdtv.lzu6.edu.cn/hls/cctv12hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-13新闻HD
-http://223.110.241.131:6610/gitv/live1/G_CCTV-13-HQ/index.m3u8
+http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000204603.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-13新闻HD(备用1)
-http://39.134.7.247/000000001000/1000000002000021303/1.m3u8
+http://223.110.241.131:6610/gitv/live1/G_CCTV-13-HQ/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-13新闻HD(备用2)
+http://www.dszbdq.cn/diao/ysp.php?tv=0204603
+#EXTINF:-1 group-title="央视频道",CCTV-13新闻HD(备用3)
+http://39.134.7.247/000000001000/1000000002000021303/1.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-13新闻HD(备用4)
 http://itv.ahau.edu.cn/hls/cctv13.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-14少儿HD
 http://183.230.80.8:80/000000001000/1000000001000021349/1.m3u8
@@ -203,8 +207,14 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225568/index.m3u8
 http://itv.ahau.edu.cn/hls/lyhd.m3u8
 #EXTINF:-1 group-title="影视娱乐",CHC高清
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
+#EXTINF:-1 group-title="影视娱乐",CHC动作
+http://125.210.152.18:9090/live/DZDYHD.m3u8
+#EXTINF:-1 group-title="影视娱乐",CHC家庭
+http://125.210.152.18:9090/live/JTYYHD.m3u8
 #EXTINF:-1 group-title="影视娱乐",星空卫视
 http://itv.ahau.edu.cn/hls/startv.m3u8
+#EXTINF:-1 group-title="影视娱乐",峨眉电影
+http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 #EXTINF:-1 group-title="影视娱乐",NewTV动作电影
 http://39.134.7.247/000000001000/8103864434730665389/1.m3u8
 #EXTINF:-1 group-title="影视娱乐",NewTV精品大剧
