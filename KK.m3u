@@ -20,8 +20,10 @@ http://hdtv.lzu6.edu.cn/hls/cctv2hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-3综艺HD
 http://223.110.241.131:6610/gitv/live1/G_CCTV-3-CQ/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-3综艺HD(备用1)
-http://itv.ahau.edu.cn/hls/cctv3hd.m3u8
+http://211.137.115.110:8080/gitv_live/G_CCTV-3-HD/G_CCTV-3-HD.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-3综艺HD(备用2)
+http://itv.ahau.edu.cn/hls/cctv3hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-3综艺HD(备用3)
 http://hdtv.lzu6.edu.cn/hls/cctv3hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-4中文国际HD
 http://211.137.115.110:8080/gitv_live/G_CCTV-4-MD/G_CCTV-4-MD.m3u8
@@ -32,35 +34,41 @@ http://itv.ahau.edu.cn/hls/cctv4hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-4中文国际HD(备用3)
 http://hdtv.lzu6.edu.cn/hls/cctv4hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-5+体育赛事HD
-http://223.110.241.131:6610/gitv/live1/G_CCTV-5PLUS-CQ/index.m3u8
+http://211.137.115.110:8080/gitv_live/G_CCTV-5PLUS-MD/G_CCTV-5PLUS-MD.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-5+体育赛事HD(备用1)
-http://itv.ahau.edu.cn/hls/cctv5phd.m3u8
+http://223.110.241.131:6610/gitv/live1/G_CCTV-5PLUS-CQ/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-5+体育赛事HD(备用2)
+http://itv.ahau.edu.cn/hls/cctv5phd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-5+体育赛事HD(备用3)
 http://hdtv.lzu6.edu.cn/hls/cctv5phd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-5体育HD
 http://223.110.241.131:6610/gitv/live1/G_CCTV-5-CQ/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-5体育HD(备用1)
-http://itv.ahau.edu.cn/hls/cctv5hd.m3u8
+http://211.137.115.110:8080/gitv_live/G_CCTV-5-HD/G_CCTV-5-HD.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-5体育HD(备用2)
+http://itv.ahau.edu.cn/hls/cctv5hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-5体育HD(备用3)
 http://hdtv.lzu6.edu.cn/hls/cctv5hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-6电影HD
-http://223.110.245.135/PLTV/1/224/3221227505/index.m3u8
+http://223.110.245.136/PLTV/1/224/3221227505/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-6电影HD(备用1)
 http://223.110.241.131:6610/gitv/live1/G_CCTV-6-CQ/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-6电影HD(备用2)
-http://itv.ahau.edu.cn/hls/cctv6hd.m3u8
+http://211.137.115.110:8080/gitv_live/G_CCTV-6-HD/G_CCTV-6-HD.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-6电影HD(备用3)
+http://itv.ahau.edu.cn/hls/cctv6hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-6电影HD(备用4)
 http://hdtv.lzu6.edu.cn/hls/cctv6hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-7军事HD
 http://223.110.241.131:6610/cntv/live1/HD-12000k-1080P-cctv7/1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-7军事HD(备用1)
 http://223.110.241.131:6610/gitv/live1/G_CCTV-7-HQ/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-7军事HD(备用2)
-http://itv.ahau.edu.cn/hls/cctv7hd.m3u8
+http://211.137.115.110:8080/gitv_live/G_CCTV-7-HD/G_CCTV-7-HD.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-7军事HD(备用3)
-http://hdtv.lzu6.edu.cn/hls/cctv7hd.m3u8
+http://itv.ahau.edu.cn/hls/cctv7hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-8电视剧HD
-http://223.110.243.135/PLTV/1/224/3221227473/index.m3u8
+http://223.110.243.136/PLTV/1/224/3221227473/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-8电视剧HD(备用1)
 http://223.110.241.131:6610/gitv/live1/G_CCTV-8-CQ/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-8电视剧HD(备用2)
@@ -90,7 +98,7 @@ http://112.50.243.8/PLTV/88888888/224/3221225816/1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-12社会与法HD(备用2)
 http://hdtv.lzu6.edu.cn/hls/cctv12hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-13新闻HD
-http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000204603.m3u8
+http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-13新闻HD(备用1)
 http://223.110.241.131:6610/gitv/live1/G_CCTV-13-HQ/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-13新闻HD(备用2)
@@ -203,6 +211,8 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225564/index.m3u8
 http://112.17.40.140/PLTV/88888888/224/3221226128/index.m3u8
 #EXTINF:-1 group-title="地方卫视",甘肃卫视HD
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225568/index.m3u8
+#EXTINF:-1 group-title="地方卫视",青海卫视HD
+http://live.geermurmt.com/qhws/sd/live.m3u8
 #EXTINF:-1 group-title="地方卫视",海南卫视HD
 http://itv.ahau.edu.cn/hls/lyhd.m3u8
 #EXTINF:-1 group-title="影视娱乐",CHC高清
