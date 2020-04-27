@@ -98,14 +98,12 @@ http://112.50.243.8/PLTV/88888888/224/3221225816/1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-12社会与法HD(备用2)
 http://hdtv.lzu6.edu.cn/hls/cctv12hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-13新闻HD
-http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-13新闻HD(备用1)
 http://223.110.241.131:6610/gitv/live1/G_CCTV-13-HQ/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-13新闻HD(备用2)
+#EXTINF:-1 group-title="央视频道",CCTV-13新闻HD(备用1)
 http://www.dszbdq.cn/diao/ysp.php?tv=0204603
-#EXTINF:-1 group-title="央视频道",CCTV-13新闻HD(备用3)
+#EXTINF:-1 group-title="央视频道",CCTV-13新闻HD(备用2)
 http://39.134.7.247/000000001000/1000000002000021303/1.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-13新闻HD(备用4)
+#EXTINF:-1 group-title="央视频道",CCTV-13新闻HD(备用3)
 http://itv.ahau.edu.cn/hls/cctv13.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-14少儿HD
 http://183.230.80.8:80/000000001000/1000000001000021349/1.m3u8
