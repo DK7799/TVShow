@@ -50,14 +50,12 @@ http://itv.ahau.edu.cn/hls/cctv5hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-5体育HD(备用3)
 http://hdtv.lzu6.edu.cn/hls/cctv5hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-6电影HD
-http://223.110.245.136/PLTV/1/224/3221227505/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-6电影HD(备用1)
 http://223.110.241.131:6610/gitv/live1/G_CCTV-6-CQ/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-6电影HD(备用2)
+#EXTINF:-1 group-title="央视频道",CCTV-6电影HD(备用1)
 http://211.137.115.110:8080/gitv_live/G_CCTV-6-HD/G_CCTV-6-HD.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-6电影HD(备用3)
+#EXTINF:-1 group-title="央视频道",CCTV-6电影HD(备用2)
 http://itv.ahau.edu.cn/hls/cctv6hd.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-6电影HD(备用4)
+#EXTINF:-1 group-title="央视频道",CCTV-6电影HD(备用3)
 http://hdtv.lzu6.edu.cn/hls/cctv6hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-7军事HD
 http://223.110.241.131:6610/cntv/live1/HD-12000k-1080P-cctv7/1.m3u8
